@@ -1,0 +1,4636 @@
+WEBVTT
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/148-0
+00:00:05.509 --> 00:00:05.669
+<v Mullins, Nicky>Cool.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/156-0
+00:00:09.809 --> 00:00:11.289
+<v Poovannan, Rajendran>Hope you are all able to see.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/159-0
+00:00:11.579 --> 00:00:12.179
+<v Mullins, Nicky>Yeah, all good.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/163-0
+00:00:12.249 --> 00:00:13.009
+<v Mudhar, Arvinder>Yep, so good.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/162-0
+00:00:12.269 --> 00:00:12.429
+<v Swift, Christopher>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/165-0
+00:00:12.959 --> 00:00:13.119
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/205-0
+00:00:15.199 --> 00:00:19.778
+<v Poovannan, Rajendran>So just a brief on that jinda,
+we'll go through the blueprint</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/205-1
+00:00:19.778 --> 00:00:24.431
+<v Poovannan, Rajendran>to first look at the task list,
+a relationship dashboard and a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/205-2
+00:00:24.431 --> 00:00:29.084
+<v Poovannan, Rajendran>brief on support review. Greg
+Yeager is on vacation, so he may</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/205-3
+00:00:29.084 --> 00:00:33.220
+<v Poovannan, Rajendran>not be joining this call. And
+anyway, he has a separate</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/205-4
+00:00:33.220 --> 00:00:34.919
+<v Poovannan, Rajendran>monthly review as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/213-0
+00:00:36.219 --> 00:00:40.699
+<v Poovannan, Rajendran>Hey, going into Blueprint 2,
+over to you, rich.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/224-0
+00:00:42.689 --> 00:00:47.409
+<v Burge, Richard>Thanks, poopy. Nikki, did you
+say Rob was going to join or?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/239-0
+00:00:46.989 --> 00:00:49.967
+<v Mullins, Nicky>Now he's in California. He's on
+his way to California at the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/229-0
+00:00:47.469 --> 00:00:48.269
+<v Poovannan, Rajendran>No, he's on with.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/239-1
+00:00:49.967 --> 00:00:50.309
+<v Mullins, Nicky>moment.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/248-0
+00:00:50.329 --> 00:00:53.514
+<v Burge, Richard>Oh, he's on his way to
+California. Lucky fella. No,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/245-0
+00:00:51.629 --> 00:00:52.469
+<v Mullins, Nicky>Not jealous at all.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/248-1
+00:00:53.514 --> 00:00:54.249
+<v Burge, Richard>lucky fella.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/260-0
+00:00:56.409 --> 00:00:58.983
+<v Burge, Richard>Disneyland or somewhere else?
+I'm sure somewhere exciting</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/265-0
+00:00:58.779 --> 00:01:00.801
+<v Mullins, Nicky>He was 30 San Francisco and
+working his way down to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/260-1
+00:00:58.983 --> 00:00:59.249
+<v Burge, Richard>there.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/265-1
+00:01:00.801 --> 00:01:01.579
+<v Mullins, Nicky>Disneyland, I think.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/269-0
+00:01:02.009 --> 00:01:03.569
+<v Burge, Richard>Oh, really? OK, good.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/294-0
+00:01:05.289 --> 00:01:09.088
+<v Burge, Richard>Preview. If you bring the slides
+back up there we go so very</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/294-1
+00:01:09.088 --> 00:01:12.825
+<v Burge, Richard>quickly I QS right where you
+need to be. There are a couple</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/294-2
+00:01:12.825 --> 00:01:15.129
+<v Burge, Richard>of actions that you do need to
+take.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/325-0
+00:01:16.849 --> 00:01:21.028
+<v Burge, Richard>And Chris, you might be aware of
+what Rob's been sent recently as</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/325-1
+00:01:21.028 --> 00:01:24.954
+<v Burge, Richard>far as onboarding's concerned
+with with your environments and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/325-2
+00:01:24.954 --> 00:01:28.816
+<v Burge, Richard>with the portals and users in
+portals. So I'll just check on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/325-3
+00:01:28.816 --> 00:01:30.209
+<v Burge, Richard>that in just a second.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/333-0
+00:01:31.109 --> 00:01:33.829
+<v Burge, Richard>At the moment, no new phase one
+cutover.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/350-0
+00:01:35.569 --> 00:01:39.320
+<v Burge, Richard>We are expecting a new
+announcement of test timelines</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/350-1
+00:01:39.320 --> 00:01:43.209
+<v Burge, Richard>at the beginning of August. So
+in the next week or two.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/363-0
+00:01:43.249 --> 00:01:46.255
+<v Burge, Richard>We're not expecting a new
+cutover announcement date in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/363-1
+00:01:46.255 --> 00:01:48.769
+<v Burge, Richard>August. We're expecting that to
+be announced.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/367-0
+00:01:50.929 --> 00:01:52.289
+<v Burge, Richard>Either October or November.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/369-0
+00:01:53.809 --> 00:01:54.409
+<v Burge, Richard>At the soonest.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/402-0
+00:01:55.769 --> 00:01:59.579
+<v Burge, Richard>Expect that's well, I I qualify
+that as being a good thing</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/402-1
+00:01:59.579 --> 00:02:03.453
+<v Burge, Richard>because villanetic need to have
+some advancement of testing</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/402-2
+00:02:03.453 --> 00:02:07.715
+<v Burge, Richard>being done for them to gauge the
+quality of the build and whether</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/402-3
+00:02:07.715 --> 00:02:09.329
+<v Burge, Richard>any cutover is realistic.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/410-0
+00:02:11.509 --> 00:02:15.069
+<v Burge, Richard>We can't afford another delay.
+They certainly can't.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/420-0
+00:02:17.639 --> 00:02:22.192
+<v Burge, Richard>So yeah, from a project
+management point of view. Ah,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/420-1
+00:02:22.192 --> 00:02:23.119
+<v Burge, Richard>hello Andy.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/429-0
+00:02:25.159 --> 00:02:28.319
+<v Burge, Richard>Be prepared to wait a little bit
+longer for that cut over date.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/432-0
+00:02:29.899 --> 00:02:31.059
+<v Burge, Richard>Onboarding, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/437-0
+00:02:29.959 --> 00:02:33.479
+<v Mudhar, Arvinder>Just just on that, I mean
+there's a.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/441-0
+00:02:34.769 --> 00:02:36.369
+<v Mudhar, Arvinder>There's going to be a point
+where.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/453-0
+00:02:37.249 --> 00:02:40.441
+<v Mudhar, Arvinder>Either we just keep working hard
+and testing everything, or we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/453-1
+00:02:40.441 --> 00:02:41.809
+<v Mudhar, Arvinder>stop doing things and wait.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/494-0
+00:02:43.109 --> 00:02:46.107
+<v Mudhar, Arvinder>Do you think we're at? We're at,
+we're at my preference is we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/494-1
+00:02:46.107 --> 00:02:49.201
+<v Mudhar, Arvinder>continue to test for long as we
+can rather than put anything on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/494-2
+00:02:49.201 --> 00:02:52.296
+<v Mudhar, Arvinder>hold. What? What what's what's
+various for you on this? Because</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/494-3
+00:02:52.296 --> 00:02:55.051
+<v Mudhar, Arvinder>it just supporting kind of you
+know probably not just us</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/494-4
+00:02:55.051 --> 00:02:57.469
+<v Mudhar, Arvinder>doesn't know whether market
+participants in this.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/512-0
+00:02:59.099 --> 00:03:02.181
+<v Burge, Richard>Absolutely, yeah, poovy, if you
+could bring all the points up</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/512-1
+00:03:02.181 --> 00:03:05.163
+<v Burge, Richard>and then I'll talk to them
+because I think this is the most</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/512-2
+00:03:05.163 --> 00:03:05.859
+<v Burge, Richard>important one.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/537-0
+00:03:09.109 --> 00:03:13.472
+<v Burge, Richard>If we think about test
+involvements at the moment, IQ</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/537-1
+00:03:13.472 --> 00:03:18.561
+<v Burge, Richard>is practically 0, so you should
+not be spending time doing any</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/537-2
+00:03:18.561 --> 00:03:21.389
+<v Burge, Richard>testing for Blueprint 2 right
+now.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/557-0
+00:03:21.409 --> 00:03:25.474
+<v Burge, Richard>The ball is in vanguard, the
+Vanguard group's court, and in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/557-1
+00:03:25.474 --> 00:03:29.809
+<v Burge, Richard>particular it's with the control
+group within Vanguard's court.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/584-0
+00:03:32.099 --> 00:03:37.302
+<v Burge, Richard>We are saying is varisk do not
+start any testing until we've</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/584-1
+00:03:37.302 --> 00:03:42.333
+<v Burge, Richard>done the technical analysis and
+technical assurance on the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/584-2
+00:03:42.333 --> 00:03:46.939
+<v Burge, Richard>market exchanged messages.
+That's EDI and write back.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/586-0
+00:03:48.299 --> 00:03:48.979
+<v Burge, Richard>Until.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/603-0
+00:03:50.459 --> 00:03:54.995
+<v Burge, Richard>That passes our quality gate of
+canvas information be accepted</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/603-1
+00:03:54.995 --> 00:03:56.579
+<v Burge, Richard>into recipient system.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/609-0
+00:03:58.739 --> 00:04:01.779
+<v Burge, Richard>We do not advise you start any
+active testing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/627-0
+00:04:03.059 --> 00:04:07.705
+<v Burge, Richard>It is a few that limos hold as
+well as the leaders of your</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/616-0
+00:04:05.869 --> 00:04:06.229
+<v Mudhar, Arvinder>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/627-1
+00:04:07.705 --> 00:04:10.619
+<v Burge, Richard>customer coordinated testing
+pillar.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-0
+00:04:09.989 --> 00:04:13.099
+<v Mullins, Nicky>So I think the discussion at the
+moment though isn't it is around</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-1
+00:04:13.099 --> 00:04:16.067
+<v Mullins, Nicky>the extent or the scenarios that
+we want to test that's that's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-2
+00:04:16.067 --> 00:04:19.035
+<v Mullins, Nicky>the discussion at the moment. So
+I think 7 that's why the test</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/651-0
+00:04:16.909 --> 00:04:18.629
+<v Burge, Richard>Yeah, correct. Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-3
+00:04:19.035 --> 00:04:22.051
+<v Mullins, Nicky>team are are heavily engaged in
+the moment of Marina and others</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/655-0
+00:04:20.419 --> 00:04:20.539
+<v Mudhar, Arvinder>Hmm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-4
+00:04:22.051 --> 00:04:24.830
+<v Mullins, Nicky>are talking about what are the
+scenarios, what are the the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-5
+00:04:24.830 --> 00:04:27.327
+<v Mullins, Nicky>extent of testing. So yes,
+there's there's test team</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/680-6
+00:04:27.327 --> 00:04:29.589
+<v Mullins, Nicky>involvement, but they're not
+testing right now.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/700-0
+00:04:31.239 --> 00:04:35.604
+<v Mudhar, Arvinder>Test design and criteria
+management rather than actually</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/691-0
+00:04:33.189 --> 00:04:34.709
+<v Swift, Christopher>The Plumb yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/692-0
+00:04:34.189 --> 00:04:35.109
+<v Mullins, Nicky>Test strategy.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/700-1
+00:04:35.604 --> 00:04:37.519
+<v Mudhar, Arvinder>doing any testing at all.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-0
+00:04:37.869 --> 00:04:40.454
+<v Mullins, Nicky>Yeah. So my understanding and
+again, but apologies, I am</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/703-0
+00:04:38.209 --> 00:04:38.489
+<v Swift, Christopher>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-1
+00:04:40.454 --> 00:04:43.310
+<v Mullins, Nicky>coming in this relatively new
+that and currently our our range</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/712-0
+00:04:42.489 --> 00:04:42.649
+<v Burge, Richard>That.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-2
+00:04:43.310 --> 00:04:46.122
+<v Mullins, Nicky>of testing is quite narrow and
+we really want to broaden that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-3
+00:04:46.122 --> 00:04:48.479
+<v Mullins, Nicky>out. It's my understanding and
+so that's that's the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/734-0
+00:04:48.309 --> 00:04:49.309
+<v Swift, Christopher>Yeah, that's correct.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-4
+00:04:48.479 --> 00:04:51.472
+<v Mullins, Nicky>conversations that are happening
+at the moment of India. And then</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-5
+00:04:51.472 --> 00:04:53.921
+<v Mullins, Nicky>the second bit of work that's
+underway at the team is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-6
+00:04:53.921 --> 00:04:56.460
+<v Mullins, Nicky>reviewing some of the other
+artefacts in the data room,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-7
+00:04:56.460 --> 00:04:59.135
+<v Mullins, Nicky>allocating them out to other
+people in the organisation to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/766-8
+00:04:59.135 --> 00:05:00.949
+<v Mullins, Nicky>review and understand the impact
+to IK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/798-0
+00:05:03.789 --> 00:05:07.279
+<v Burge, Richard>And I'm aware there's a third
+activity that that Rob robs.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/778-0
+00:05:05.889 --> 00:05:06.729
+<v Mullins, Nicky>How was that?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/798-1
+00:05:07.279 --> 00:05:10.888
+<v Burge, Richard>Well, it might be coupled under
+those two, but how your test</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/798-2
+00:05:10.888 --> 00:05:14.260
+<v Burge, Richard>involvement informs your
+internal governments governance</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/816-0
+00:05:14.049 --> 00:05:17.122
+<v Mullins, Nicky>Yes. Yeah. So you're right. Are
+we testing 90 percent, 80%.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/798-3
+00:05:14.260 --> 00:05:15.029
+<v Burge, Richard>and sign off?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/816-1
+00:05:17.122 --> 00:05:20.502
+<v Mullins, Nicky>What's the difference if we test
+a smaller percentage? No, you're</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/810-0
+00:05:18.779 --> 00:05:18.939
+<v Burge, Richard>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/816-2
+00:05:20.502 --> 00:05:20.809
+<v Mullins, Nicky>right.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/828-0
+00:05:21.179 --> 00:05:23.979
+<v Burge, Richard>And who and who agrees what that
+sort of thing? Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/832-0
+00:05:23.049 --> 00:05:26.489
+<v Mullins, Nicky>Yeah, I guess he's putting
+together a paper on that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/834-0
+00:05:26.939 --> 00:05:27.339
+<v Burge, Richard>Yes.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/854-0
+00:05:30.409 --> 00:05:35.562
+<v Burge, Richard>Very good. So .4 onboarding with
+IQ, I've circled the red blocks</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/854-1
+00:05:35.562 --> 00:05:39.209
+<v Burge, Richard>where you guys are are sitting
+at the moment.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/857-0
+00:05:40.729 --> 00:05:42.209
+<v Burge, Richard>Rob would have.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-0
+00:05:44.609 --> 00:05:49.120
+<v Burge, Richard>As as he is your blueprint to
+champion received an e-mail from</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-1
+00:05:49.120 --> 00:05:53.702
+<v Burge, Richard>the onboarding team that might
+be called a chaser or something,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-2
+00:05:53.702 --> 00:05:58.141
+<v Burge, Richard>but every client's been sent
+this that e-mail tells you to do</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/886-0
+00:05:55.059 --> 00:05:55.099
+<v Swift, Christopher>I.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-3
+00:05:58.141 --> 00:06:02.651
+<v Burge, Richard>2 things, set up your business
+users. Now that that they've on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-4
+00:06:02.651 --> 00:06:06.876
+<v Burge, Richard>boarded your organisation with
+the right syndicate. So the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/920-5
+00:06:06.876 --> 00:06:10.169
+<v Burge, Richard>admin user within IQ can now add
+other users.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/924-0
+00:06:10.929 --> 00:06:12.169
+<v Burge, Richard>Chris, I don't know if you've.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/942-0
+00:06:12.809 --> 00:06:15.600
+<v Swift, Christopher>I wasn't aware of that yet, but
+I'm sure Rob's passed that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/942-1
+00:06:15.600 --> 00:06:18.579
+<v Swift, Christopher>message on them. I think with
+Rob now being off, I'm presuming</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/942-2
+00:06:18.579 --> 00:06:19.809
+<v Swift, Christopher>because Hallum's involved.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/951-0
+00:06:21.309 --> 00:06:23.469
+<v Swift, Christopher>He's he's aware of this, but
+I'll check with him anyway.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/963-0
+00:06:23.969 --> 00:06:27.671
+<v Burge, Richard>OK. Just so you know, others
+have received this and they're</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/963-1
+00:06:27.671 --> 00:06:29.769
+<v Burge, Richard>they're able to start doing
+that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/965-0
+00:06:30.249 --> 00:06:30.929
+<v Swift, Christopher>Right.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/969-0
+00:06:32.219 --> 00:06:33.939
+<v Burge, Richard>The second part of that is.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/987-0
+00:06:35.579 --> 00:06:39.522
+<v Burge, Richard>Having your connection details
+so also in that chase so that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/987-1
+00:06:39.522 --> 00:06:42.819
+<v Burge, Richard>bellinetic would have sent our
+connection details.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1006-0
+00:06:44.459 --> 00:06:48.691
+<v Burge, Richard>That you sent to us and you need
+to then complete yet another</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1006-1
+00:06:48.691 --> 00:06:51.899
+<v Burge, Richard>online form to confirm that
+everything's fine.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1015-0
+00:06:53.539 --> 00:06:57.579
+<v Burge, Richard>Once that's done, you move
+alongside into your.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1020-0
+00:06:59.239 --> 00:07:00.719
+<v Burge, Richard>Onboarding complete box.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1040-0
+00:07:04.149 --> 00:07:07.313
+<v Swift, Christopher>OK. And I I presume that's all
+been put in there, emailed</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1040-1
+00:07:07.313 --> 00:07:10.149
+<v Swift, Christopher>correspondence that's been sent
+out by bellonettic.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1068-0
+00:07:10.809 --> 00:07:14.606
+<v Burge, Richard>Yeah, that's right. I will send
+you the two e-mail addresses</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1046-0
+00:07:12.149 --> 00:07:12.629
+<v Swift, Christopher>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1068-1
+00:07:14.606 --> 00:07:18.092
+<v Burge, Richard>that you can do a search in
+inboxes for, or you can ask</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1061-0
+00:07:17.579 --> 00:07:18.539
+<v Swift, Christopher>Perfect. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1068-2
+00:07:18.092 --> 00:07:20.769
+<v Burge, Richard>someone else to do. I'll send
+that to you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1071-0
+00:07:21.229 --> 00:07:22.069
+<v Swift, Christopher>Thanks very much.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1073-0
+00:07:22.719 --> 00:07:23.559
+<v Burge, Richard>No problemo.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1074-0
+00:07:25.609 --> 00:07:25.729
+<v Burge, Richard>Umm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-0
+00:07:27.429 --> 00:07:31.552
+<v Burge, Richard>Okey dokes. Yep, control
+testing. I I gave a mention of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-1
+00:07:31.552 --> 00:07:35.676
+<v Burge, Richard>that and us introducing a new
+quality gate on technical</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-2
+00:07:35.676 --> 00:07:40.315
+<v Burge, Richard>message assurance that's going
+to be free of charge. We're not</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-3
+00:07:40.315 --> 00:07:44.659
+<v Burge, Richard>doing business scenario testing.
+We're doing the technical</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-4
+00:07:44.659 --> 00:07:49.150
+<v Burge, Richard>assessment of can this message
+are we expecting to see every</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-5
+00:07:49.150 --> 00:07:53.789
+<v Burge, Richard>data point in the message that
+we we know it should be and can</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1127-6
+00:07:53.789 --> 00:07:57.029
+<v Burge, Richard>it be accepted into Eclipse and
+SQL claims.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1131-0
+00:07:57.869 --> 00:07:58.669
+<v Burge, Richard>That's what we're doing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1149-0
+00:08:00.309 --> 00:08:03.289
+<v Burge, Richard>More detail not for this kind of
+monthly review meeting, but I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1149-1
+00:08:03.289 --> 00:08:06.363
+<v Burge, Richard>can go into more detail. Chris,
+I think you were there on Monday</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1149-2
+00:08:06.363 --> 00:08:07.309
+<v Burge, Richard>in my working group.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1155-0
+00:08:06.939 --> 00:08:08.859
+<v Mudhar, Arvinder>Yep, Yep, Yep. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1153-0
+00:08:07.389 --> 00:08:07.709
+<v Swift, Christopher>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1167-0
+00:08:10.539 --> 00:08:17.097
+<v Burge, Richard>And yeah, don't plan to start
+any test execution before mid to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1167-1
+00:08:17.097 --> 00:08:18.659
+<v Burge, Richard>late September.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1211-0
+00:08:20.034 --> 00:08:23.807
+<v Mudhar, Arvinder>Yeah, I think Nikki and Chris
+SMS is going to get to Marina,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1211-1
+00:08:23.807 --> 00:08:27.147
+<v Mudhar, Arvinder>but to which is point, we
+shouldn't stop doing all of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1211-2
+00:08:27.147 --> 00:08:30.796
+<v Mudhar, Arvinder>their scenario planning, all
+that kind of stuff. It's just</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1211-3
+00:08:30.796 --> 00:08:33.394
+<v Mudhar, Arvinder>the actual act of testing. OK,
+all right.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1206-0
+00:08:30.974 --> 00:08:31.414
+<v Swift, Christopher>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1234-0
+00:08:33.634 --> 00:08:36.797
+<v Swift, Christopher>Yeah, marine is involved in the
+uh blueprint to like working</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1234-1
+00:08:36.797 --> 00:08:40.012
+<v Swift, Christopher>group that we've got, umm, so
+she'll she'll be aware of this,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1234-2
+00:08:40.012 --> 00:08:42.034
+<v Swift, Christopher>but we will just verify that
+with her.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1252-0
+00:08:44.574 --> 00:08:48.519
+<v Burge, Richard>If you want to invite me to one
+of your future ones like we had</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1252-1
+00:08:48.519 --> 00:08:52.094
+<v Burge, Richard>before, if you think that would
+be helpful, feel free to.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1292-0
+00:08:51.704 --> 00:08:54.703
+<v Swift, Christopher>Yeah, I think we've eased off on
+him a little bit now with the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1292-1
+00:08:54.703 --> 00:08:57.701
+<v Swift, Christopher>with the with what's been going
+on 'cause, it's not not needed</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1292-2
+00:08:57.701 --> 00:09:00.605
+<v Swift, Christopher>as many 'cause I think we've
+having about 3 a week. Umm, but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1279-0
+00:08:58.254 --> 00:08:58.454
+<v Burge, Richard>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1292-3
+00:09:00.605 --> 00:09:03.508
+<v Swift, Christopher>yeah, we can definitely involve
+you when we need to as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1292-4
+00:09:03.508 --> 00:09:03.984
+<v Swift, Christopher>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1294-0
+00:09:04.324 --> 00:09:04.884
+<v Burge, Richard>No problem.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1296-0
+00:09:07.194 --> 00:09:07.714
+<v Burge, Richard>Very good.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1299-0
+00:09:08.344 --> 00:09:09.184
+<v Mudhar, Arvinder>Hey, thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1307-0
+00:09:12.444 --> 00:09:15.201
+<v Mullins, Nicky>Sorry. Can I just ask one more
+question? So I was struggling to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1307-1
+00:09:15.201 --> 00:09:15.804
+<v Mullins, Nicky>come off mute.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1321-0
+00:09:17.024 --> 00:09:20.275
+<v Mullins, Nicky>I know you're not going to
+commit to a date, but that's one</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1321-1
+00:09:20.275 --> 00:09:22.984
+<v Mullins, Nicky>point. April is being muted now
+I'm hearing July.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1357-0
+00:09:24.504 --> 00:09:27.694
+<v Mullins, Nicky>Is are we looking more to the
+the reason I ask is because it,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1325-0
+00:09:24.814 --> 00:09:25.134
+<v Burge, Richard>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1357-1
+00:09:27.694 --> 00:09:30.781
+<v Mullins, Nicky>as Andrew knows, we're looking
+at the rescheduling of other</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1357-2
+00:09:30.781 --> 00:09:33.817
+<v Mullins, Nicky>work with VARISK and the the
+later in the year, the better</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1357-3
+00:09:33.817 --> 00:09:36.904
+<v Mullins, Nicky>for us with some other things
+coming along the tracking Q1.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1360-0
+00:09:39.384 --> 00:09:40.304
+<v Burge, Richard>Publicly.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1385-0
+00:09:42.414 --> 00:09:46.767
+<v Burge, Richard>The three options being mooted
+are April, July and October, so</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1385-1
+00:09:46.767 --> 00:09:51.189
+<v Burge, Richard>noting those down in calendars,
+those follow quarter closes for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1385-2
+00:09:51.189 --> 00:09:52.294
+<v Burge, Richard>obvious reasons.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1381-0
+00:09:51.404 --> 00:09:51.644
+<v Mullins, Nicky>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1383-0
+00:09:52.584 --> 00:09:52.824
+<v Mudhar, Arvinder>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1384-0
+00:09:52.604 --> 00:09:52.684
+<v Mullins, Nicky>Mm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1389-0
+00:09:54.844 --> 00:09:56.564
+<v Burge, Richard>I don't think it'll be before
+July.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1391-0
+00:09:57.534 --> 00:09:58.094
+<v Mullins, Nicky>Yeah. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1394-0
+00:09:58.094 --> 00:09:59.494
+<v Burge, Richard>It's hard to say at this stage.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1396-0
+00:10:00.564 --> 00:10:00.844
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1410-0
+00:10:02.154 --> 00:10:05.922
+<v Mullins, Nicky>OK, thank you. OK. So I'm not
+gonna date where I'm not gonna</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1408-0
+00:10:05.834 --> 00:10:06.314
+<v Burge, Richard>No.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1410-1
+00:10:05.922 --> 00:10:07.714
+<v Mullins, Nicky>hold you to that at any date.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1409-0
+00:10:06.944 --> 00:10:07.144
+<v Mudhar, Arvinder>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1416-0
+00:10:07.114 --> 00:10:08.594
+<v Burge, Richard>I'm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1421-0
+00:10:07.794 --> 00:10:10.274
+<v Mullins, Nicky>You just I wanted to check that
+we were all on the same the same</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1417-0
+00:10:09.314 --> 00:10:09.354
+<v Burge, Richard>It's.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1421-1
+00:10:10.274 --> 00:10:11.114
+<v Mullins, Nicky>page of the hymn book.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1432-0
+00:10:11.674 --> 00:10:14.914
+<v Burge, Richard>No problem. Nikki and I must
+qualify that. I am wrong a lot.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1426-0
+00:10:12.044 --> 00:10:12.764
+<v Mudhar, Arvinder>Yep, Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1437-0
+00:10:15.864 --> 00:10:17.384
+<v Mudhar, Arvinder>OK. Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1458-0
+00:10:16.834 --> 00:10:19.593
+<v Mullins, Nicky>But I think if if it was, it's
+gonna be April, I think they'd</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1458-1
+00:10:19.593 --> 00:10:22.441
+<v Mullins, Nicky>be going some and we would know
+much more at towards the end of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1458-2
+00:10:22.441 --> 00:10:23.554
+<v Mullins, Nicky>July is where we are now.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1463-0
+00:10:25.034 --> 00:10:26.354
+<v Mullins, Nicky>OK, that's helpful. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1465-0
+00:10:27.474 --> 00:10:27.914
+<v Burge, Richard>No problem.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1480-0
+00:10:30.074 --> 00:10:35.172
+<v Poovannan, Rajendran>Thanks, rich. Yeah, and rich,
+yeah, if you if you have the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1480-1
+00:10:35.172 --> 00:10:38.714
+<v Poovannan, Rajendran>clashes, you can move on. Thank
+you. So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1488-0
+00:10:39.344 --> 00:10:41.264
+<v Burge, Richard>OK, I'll jump off. Good to see
+you all.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1487-0
+00:10:40.134 --> 00:10:40.894
+<v Poovannan, Rajendran>Yeah. Thank you. Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1491-0
+00:10:41.444 --> 00:10:42.564
+<v Mullins, Nicky>Great to meet you. Take care.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1494-0
+00:10:41.964 --> 00:10:43.484
+<v Swift, Christopher>Hi, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1492-0
+00:10:42.174 --> 00:10:42.654
+<v Mudhar, Arvinder>Thanks rich.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1495-0
+00:10:43.184 --> 00:10:43.664
+<v Burge, Richard>Bye.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-0
+00:10:44.354 --> 00:10:49.316
+<v Poovannan, Rajendran>So just to the few of you might
+already have met Andy, Andy is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-1
+00:10:49.316 --> 00:10:53.648
+<v Poovannan, Rajendran>the programme manager from
+various side looking at the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-2
+00:10:53.648 --> 00:10:58.294
+<v Poovannan, Rajendran>overall programme and the
+multiple tracks which is running</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-3
+00:10:58.294 --> 00:11:03.335
+<v Poovannan, Rajendran>between Verisk and IQ. So that
+is going to be a monthly project</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-4
+00:11:03.335 --> 00:11:08.061
+<v Poovannan, Rajendran>level governance being set up.
+So this meeting which we are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-5
+00:11:08.061 --> 00:11:13.180
+<v Poovannan, Rajendran>currently having with move more
+towards the relationship account</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1557-6
+00:11:13.180 --> 00:11:14.834
+<v Poovannan, Rajendran>and engagement level.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1581-0
+00:11:15.174 --> 00:11:18.926
+<v Poovannan, Rajendran>So the project wise delivery
+details will move on to the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1581-1
+00:11:18.926 --> 00:11:23.007
+<v Poovannan, Rajendran>governance which Andy will be
+setting up in the future. We're</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1581-2
+00:11:23.007 --> 00:11:27.220
+<v Poovannan, Rajendran>still can cover whatever we can
+and both Andy and me can answer</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1581-3
+00:11:27.220 --> 00:11:28.734
+<v Poovannan, Rajendran>most of your questions.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1617-0
+00:11:30.474 --> 00:11:33.557
+<v Mullins, Nicky>And I'm I'm having I'm with that
+distinction. I'm just portfolio</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1596-0
+00:11:30.654 --> 00:11:33.094
+<v Gillett, Andrew>Yeah, just could just just
+qualify them.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1617-1
+00:11:33.557 --> 00:11:36.307
+<v Mullins, Nicky>programme level, not project
+level would be my request. I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1617-2
+00:11:36.307 --> 00:11:38.394
+<v Mullins, Nicky>think Andy, you were going to
+say the same.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1631-0
+00:11:36.814 --> 00:11:40.392
+<v Gillett, Andrew>Yeah, it it it? Yeah, I was. I
+was gonna say the same. And and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1625-0
+00:11:40.154 --> 00:11:40.394
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1631-1
+00:11:40.392 --> 00:11:43.174
+<v Gillett, Andrew>yes, it's it's the. It's
+everything we're doing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1657-0
+00:11:44.654 --> 00:11:47.954
+<v Gillett, Andrew>On behalf of IQ, we'll cover
+everything and you know very</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1657-1
+00:11:47.954 --> 00:11:51.255
+<v Gillett, Andrew>much more in the form of our
+portfolio schedule and we'll</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1657-2
+00:11:51.255 --> 00:11:52.734
+<v Gillett, Andrew>talk about the individual.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1658-0
+00:11:53.674 --> 00:11:54.394
+<v Poovannan, Rajendran>Projects.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1665-0
+00:11:54.534 --> 00:11:57.574
+<v Gillett, Andrew>Delivery in the individual
+projects and and.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1670-0
+00:11:59.294 --> 00:12:00.694
+<v Gillett, Andrew>Small changes etcetera in that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1697-0
+00:12:02.534 --> 00:12:05.792
+<v Gillett, Andrew>And you know very much more
+along the kind of project</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1697-1
+00:12:05.792 --> 00:12:09.534
+<v Gillett, Andrew>update. I'd also say I'm not,
+I'm not actually scheduling it,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1697-2
+00:12:09.534 --> 00:12:13.335
+<v Gillett, Andrew>it's with Tristan's schedule.
+We're just discussing the moment</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1697-3
+00:12:13.335 --> 00:12:16.352
+<v Gillett, Andrew>because we just need
+confirmation of from I think</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1697-4
+00:12:16.352 --> 00:12:16.654
+<v Gillett, Andrew>it's.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1709-0
+00:12:17.674 --> 00:12:22.373
+<v Gillett, Andrew>Sorry and I'm I didn't get a
+name. Sorry. Nikki. Who's your</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1709-1
+00:12:22.373 --> 00:12:23.234
+<v Gillett, Andrew>head of it?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1710-0
+00:12:24.414 --> 00:12:24.974
+<v Mullins, Nicky>Av.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1718-0
+00:12:25.354 --> 00:12:27.674
+<v Mudhar, Arvinder>That's me. Yeah. Yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1740-0
+00:12:25.934 --> 00:12:29.174
+<v Gillett, Andrew>Without you, Arvind. OK, so I I
+was asking the question</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1740-1
+00:12:29.174 --> 00:12:32.414
+<v Gillett, Andrew>carefully because I hadn't been
+given a name and I was.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1750-0
+00:12:30.934 --> 00:12:33.583
+<v Mullins, Nicky>No, that's it. That's it. That
+was like I was like, yeah, he's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1748-0
+00:12:33.094 --> 00:12:35.734
+<v Mudhar, Arvinder>Yeah, yeah, yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1750-1
+00:12:33.583 --> 00:12:35.054
+<v Mullins, Nicky>horrendous guy. Oh, he's here.
+No.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1790-0
+00:12:34.604 --> 00:12:38.818
+<v Gillett, Andrew>Yeah. Yeah. So avindor, I think
+what, what Tristan was just</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1790-1
+00:12:38.818 --> 00:12:43.382
+<v Gillett, Andrew>going to check in with you, the
+level of representation you want</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1790-2
+00:12:43.382 --> 00:12:47.806
+<v Gillett, Andrew>from various can obviously you
+know we're quite happy for, you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1790-3
+00:12:47.806 --> 00:12:51.599
+<v Gillett, Andrew>know, to bring along senior
+representation to to that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1790-4
+00:12:51.599 --> 00:12:53.284
+<v Gillett, Andrew>monthly programme group.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1796-0
+00:12:53.944 --> 00:12:55.064
+<v Mullins, Nicky>Nice, yes.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1816-0
+00:12:54.924 --> 00:12:58.256
+<v Gillett, Andrew>Doesn't doesn't need to be board
+level, but you know we I'm quite</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1816-1
+00:12:58.256 --> 00:13:01.336
+<v Gillett, Andrew>happy to bring along somebody
+like ash, cotton for instance,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1816-2
+00:13:01.336 --> 00:13:03.204
+<v Gillett, Andrew>who's, you know, they had a
+product.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1823-0
+00:13:04.454 --> 00:13:06.814
+<v Mudhar, Arvinder>I think there's there's, there's
+probably.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1834-0
+00:13:08.084 --> 00:13:11.140
+<v Mudhar, Arvinder>Three or four streams of work
+that are happening with various</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1834-1
+00:13:11.140 --> 00:13:12.964
+<v Mudhar, Arvinder>right now, I think the first one
+is.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1863-0
+00:13:14.364 --> 00:13:17.410
+<v Mudhar, Arvinder>You're running a bunch of stuff
+for us. Just keep make sure.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1863-1
+00:13:17.410 --> 00:13:20.456
+<v Mudhar, Arvinder>Keep making sure that runs and
+it doesn't fall over. And you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1863-2
+00:13:20.456 --> 00:13:22.404
+<v Mudhar, Arvinder>know, we get we get good KPIs
+because.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1886-0
+00:13:26.374 --> 00:13:28.878
+<v Mudhar, Arvinder>Everything that we're doing must
+support our an existing</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1886-1
+00:13:28.878 --> 00:13:31.777
+<v Mudhar, Arvinder>business. That's one. The second
+is kind of that blueprint too is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1886-2
+00:13:31.777 --> 00:13:33.534
+<v Mudhar, Arvinder>that it's a major, major piece
+of work.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-0
+00:13:35.094 --> 00:13:38.862
+<v Mudhar, Arvinder>The third is and there's a bunch
+of kind of. I'd say I'd put them</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-1
+00:13:38.862 --> 00:13:42.345
+<v Mudhar, Arvinder>in the BAU upgrade category. So
+sequel underwriting upgrade,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-2
+00:13:42.345 --> 00:13:45.885
+<v Mudhar, Arvinder>that kind of thing, that's what
+aims upgrade and that kind of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-3
+00:13:45.885 --> 00:13:49.425
+<v Mudhar, Arvinder>thing. And the last one is that
+more strategic stuff, so that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-4
+00:13:49.425 --> 00:13:52.565
+<v Mudhar, Arvinder>that sequel underwriting
+upgrade, all of those kind of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1935-5
+00:13:52.565 --> 00:13:55.934
+<v Mudhar, Arvinder>things and where we where we
+take the product longer term.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-0
+00:13:56.484 --> 00:14:00.089
+<v Mudhar, Arvinder>And that's maybe somewhere where
+we work with the likes of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-1
+00:14:00.089 --> 00:14:03.512
+<v Mudhar, Arvinder>yourselves and and Simon and
+your product team to think</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-2
+00:14:03.512 --> 00:14:06.995
+<v Mudhar, Arvinder>about, well, actually let's
+let's assume that we can get</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-3
+00:14:06.995 --> 00:14:10.600
+<v Mudhar, Arvinder>these upgrades for claims and
+underwriting and we can work</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-4
+00:14:10.600 --> 00:14:14.633
+<v Mudhar, Arvinder>through Blueprint too. Where are
+the core products going? How are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-5
+00:14:14.633 --> 00:14:18.300
+<v Mudhar, Arvinder>we going to interface those to
+our to our underwriting work</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1976-0
+00:14:15.224 --> 00:14:15.464
+<v Gillett, Andrew>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-6
+00:14:18.300 --> 00:14:21.905
+<v Mudhar, Arvinder>wrenches to our core data marks,
+all of that kind of stuff</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-7
+00:14:21.905 --> 00:14:25.877
+<v Mudhar, Arvinder>because otherwise we get caught
+up in the day-to-day fixing this</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/1996-0
+00:14:22.404 --> 00:14:22.604
+<v Gillett, Andrew>Mm hmm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2005-8
+00:14:25.877 --> 00:14:26.244
+<v Mudhar, Arvinder>thing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2031-0
+00:14:27.234 --> 00:14:29.771
+<v Mudhar, Arvinder>The single most important thing
+of all of those is we have to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2009-0
+00:14:27.634 --> 00:14:28.274
+<v Gillett, Andrew>Absolutely.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2031-1
+00:14:29.771 --> 00:14:32.063
+<v Mudhar, Arvinder>keep the existing systems
+running and up and and secure</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2031-2
+00:14:32.063 --> 00:14:34.601
+<v Mudhar, Arvinder>and reliable. But I think that
+that's kind of almost a given,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2031-3
+00:14:34.601 --> 00:14:36.074
+<v Mudhar, Arvinder>but we still need to focus on
+that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2046-0
+00:14:36.774 --> 00:14:39.992
+<v Gillett, Andrew>Yeah, now understood. And and it
+was, yeah, it was that. That's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2046-1
+00:14:39.992 --> 00:14:42.054
+<v Gillett, Andrew>the very reason for asking the
+question.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2060-0
+00:14:43.694 --> 00:14:48.476
+<v Gillett, Andrew>When, when? When. Rob discussed
+and Nikki discussed this with me</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2060-1
+00:14:48.476 --> 00:14:50.094
+<v Gillett, Andrew>a couple of weeks ago.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2087-0
+00:14:52.574 --> 00:14:56.867
+<v Gillett, Andrew>The we you're very much looking
+for much more of a focus on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2087-1
+00:14:56.867 --> 00:15:01.160
+<v Gillett, Andrew>product strategy etcetera. So
+hence you know the reason for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2087-2
+00:15:01.160 --> 00:15:05.595
+<v Gillett, Andrew>the for the question bringing
+along obviously happy to anyway</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2087-3
+00:15:05.595 --> 00:15:06.454
+<v Gillett, Andrew>bring along.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-0
+00:15:07.104 --> 00:15:11.320
+<v Gillett, Andrew>Roman and you know they the
+product owner level. I'm just</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-1
+00:15:11.320 --> 00:15:15.827
+<v Gillett, Andrew>thinking potentially bringing
+somebody like Ash, Cotton who's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-2
+00:15:15.827 --> 00:15:20.334
+<v Gillett, Andrew>head of product and has much
+more holistic view across across</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-3
+00:15:20.334 --> 00:15:24.768
+<v Gillett, Andrew>the various products that than
+the individual product owners</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-4
+00:15:24.768 --> 00:15:29.275
+<v Gillett, Andrew>for say SQL underwriting or or
+or claims or anything else. So</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-5
+00:15:29.275 --> 00:15:34.000
+<v Gillett, Andrew>but we can play that one by ear
+and just for now, I'll I'll work</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2148-6
+00:15:34.000 --> 00:15:36.544
+<v Gillett, Andrew>with Tristan just to get this
+the.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2155-0
+00:15:37.584 --> 00:15:40.784
+<v Gillett, Andrew>Meetings into the diary really.
+As soon as we can.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2191-0
+00:15:41.404 --> 00:15:44.875
+<v Gillett, Andrew>And we'll make sure we have for
+that well for each meeting,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2191-1
+00:15:44.875 --> 00:15:48.287
+<v Gillett, Andrew>certainly for that first one,
+we'll work together and make</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2191-2
+00:15:48.287 --> 00:15:51.411
+<v Gillett, Andrew>sure we've got a fairly
+comprehensive deck to kind of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2191-3
+00:15:51.411 --> 00:15:54.997
+<v Gillett, Andrew>catch up on everything. So so
+we've got that complete view of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2182-0
+00:15:52.594 --> 00:15:52.914
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2191-4
+00:15:54.997 --> 00:15:57.484
+<v Gillett, Andrew>everything that that we're doing
+with you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2184-0
+00:15:55.414 --> 00:15:55.574
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2207-0
+00:15:58.274 --> 00:16:01.858
+<v Mudhar, Arvinder>I think what we also need to
+consider is as as we progress</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2207-1
+00:16:01.858 --> 00:16:04.834
+<v Mudhar, Arvinder>through this, we're going to
+have more and more.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-0
+00:16:07.114 --> 00:16:10.458
+<v Mudhar, Arvinder>Components from various
+supporting our business. So how</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-1
+00:16:10.458 --> 00:16:14.220
+<v Mudhar, Arvinder>do they all start to talk and
+work together? Because right now</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2224-0
+00:16:14.124 --> 00:16:14.204
+<v Gillett, Andrew>Mm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-2
+00:16:14.220 --> 00:16:17.743
+<v Mudhar, Arvinder>we've got separate kind of
+components and systems that sit</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-3
+00:16:17.743 --> 00:16:21.505
+<v Mudhar, Arvinder>in your in your cloud estate.
+What we really want is for us to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-4
+00:16:21.505 --> 00:16:24.908
+<v Mudhar, Arvinder>see it as a single connected
+piece rather than we've got</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2257-5
+00:16:24.908 --> 00:16:27.834
+<v Mudhar, Arvinder>claims over here. We've got over
+here we've got.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2277-0
+00:16:28.294 --> 00:16:31.081
+<v Mudhar, Arvinder>That's down to the fact that you
+know, various have grown by</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2277-1
+00:16:31.081 --> 00:16:34.005
+<v Mudhar, Arvinder>acquiring these, but we want it,
+we we want to see the value of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2277-2
+00:16:34.005 --> 00:16:36.700
+<v Mudhar, Arvinder>kind of working with you as a
+single supplier for all that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2277-3
+00:16:36.700 --> 00:16:36.974
+<v Mudhar, Arvinder>stuff.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2303-0
+00:16:37.494 --> 00:16:41.546
+<v Gillett, Andrew>Yeah, yeah, now understood. And
+again, you know, a good reason</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2303-1
+00:16:41.546 --> 00:16:45.598
+<v Gillett, Andrew>to have somebody like ash along
+and and to make sure we've got</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2303-2
+00:16:45.598 --> 00:16:48.814
+<v Gillett, Andrew>some time for that kind of
+discussion during the.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2328-0
+00:16:48.854 --> 00:16:53.045
+<v Gillett, Andrew>The portfolio calls, OK.
+Understood. Understood. I'll</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2328-1
+00:16:53.045 --> 00:16:57.237
+<v Gillett, Andrew>well that that was the
+understanding anyway from from</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2328-2
+00:16:57.237 --> 00:17:01.894
+<v Gillett, Andrew>how Nikki and Robert described
+how we want this to work so.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2344-0
+00:17:01.994 --> 00:17:05.736
+<v Gillett, Andrew>We'll make sure we put the work
+in and get that first call in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2344-1
+00:17:05.736 --> 00:17:08.754
+<v Gillett, Andrew>the diary. You know, really as
+quickly as we can.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2347-0
+00:17:09.544 --> 00:17:10.384
+<v Mudhar, Arvinder>Excellent. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2350-0
+00:17:14.084 --> 00:17:14.444
+<v Poovannan, Rajendran>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2378-0
+00:17:15.394 --> 00:17:18.448
+<v Gillett, Andrew>OK. And good to meet you,
+arvinda. I'll put a put a a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2365-0
+00:17:17.294 --> 00:17:18.174
+<v Mudhar, Arvinder>And you I think.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2378-1
+00:17:18.448 --> 00:17:21.671
+<v Gillett, Andrew>name, a name to a role and a
+phase to a name at the same</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2370-0
+00:17:19.264 --> 00:17:19.624
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2398-0
+00:17:20.824 --> 00:17:25.724
+<v Mudhar, Arvinder>And yeah, and Andrew, I think
+we've worked. Did you work for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2378-2
+00:17:21.671 --> 00:17:21.954
+<v Gillett, Andrew>time.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2398-1
+00:17:25.724 --> 00:17:30.544
+<v Mudhar, Arvinder>when for SQL claims or SQL
+underwriting or Eclipse at Brit?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2440-0
+00:17:31.444 --> 00:17:35.511
+<v Gillett, Andrew>No, no, actually, my my shame to
+say in in the company of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2404-0
+00:17:32.464 --> 00:17:33.504
+<v Mudhar, Arvinder>Yeah, OK. Alright.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2440-1
+00:17:35.511 --> 00:17:40.140
+<v Gillett, Andrew>probably everybody else here has
+spent their life in insurance. I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2440-2
+00:17:40.140 --> 00:17:44.488
+<v Gillett, Andrew>actually came from financial
+markets. I worked in the over in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2429-0
+00:17:44.024 --> 00:17:44.464
+<v Mudhar, Arvinder>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2440-3
+00:17:44.488 --> 00:17:47.924
+<v Gillett, Andrew>Canary Wharf for most of my
+career working with.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2468-0
+00:17:49.804 --> 00:17:52.654
+<v Gillett, Andrew>You know, hedge funds and
+investment banks and so on. So</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2468-1
+00:17:52.654 --> 00:17:55.504
+<v Gillett, Andrew>it was actually it's been an
+it's been a pleasant change</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2468-2
+00:17:55.504 --> 00:17:58.404
+<v Gillett, Andrew>moving into insurance because
+everybody's 10 times nicer.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2460-0
+00:17:55.914 --> 00:17:56.194
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2482-0
+00:17:59.754 --> 00:18:02.634
+<v Mullins, Nicky>You smoothie, Andre, you
+smoothie, you work the crowd.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2485-0
+00:17:59.914 --> 00:18:03.634
+<v Mudhar, Arvinder>Yeah, yeah, yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2540-0
+00:18:01.104 --> 00:18:05.896
+<v Gillett, Andrew>So it's, you know, actually it's
+absolutely true. You know the.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2479-0
+00:18:01.494 --> 00:18:02.254
+<v Swift, Christopher>Ha ha ha.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2501-0
+00:18:05.664 --> 00:18:08.104
+<v Mullins, Nicky>No, I know I've been there. I've
+been there myself. No, true.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2540-1
+00:18:05.896 --> 00:18:10.464
+<v Gillett, Andrew>Yeah, it's AI wish it wasn't.
+But sorry, I've I've only, I'd</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2502-0
+00:18:07.804 --> 00:18:08.764
+<v Mudhar, Arvinder>Yeah. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2540-2
+00:18:10.464 --> 00:18:15.406
+<v Gillett, Andrew>say only I've been in working on
+the insurance side now for about</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2540-3
+00:18:15.406 --> 00:18:20.048
+<v Gillett, Andrew>6-7 eight years. But I yeah, I
+don't have the extreme history</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2528-0
+00:18:18.654 --> 00:18:19.054
+<v Mudhar, Arvinder>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2540-4
+00:18:20.048 --> 00:18:22.744
+<v Gillett, Andrew>of most of you have been
+insurance.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2541-0
+00:18:25.824 --> 00:18:26.024
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2561-0
+00:18:27.324 --> 00:18:32.081
+<v Poovannan, Rajendran>So moving on to the task list,
+so I'll call out the important</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2561-1
+00:18:32.081 --> 00:18:36.684
+<v Poovannan, Rajendran>items. So sequel claims upgrade,
+the SRW is fully executed.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2594-0
+00:18:37.894 --> 00:18:43.621
+<v Poovannan, Rajendran>We had two paths when we last
+met. A fast path for our 2024</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2594-1
+00:18:43.621 --> 00:18:49.347
+<v Poovannan, Rajendran>November and a happy path in mid
+Q1. So we are leaning more</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2594-2
+00:18:49.347 --> 00:18:54.883
+<v Poovannan, Rajendran>towards the happy paths and the
+fast path is looking more</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2594-3
+00:18:54.883 --> 00:18:57.174
+<v Poovannan, Rajendran>unlikely as we progress.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2624-0
+00:18:59.134 --> 00:19:03.542
+<v Poovannan, Rajendran>The timelines we are discussing,
+we are yet to narrow it down and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2624-1
+00:19:03.542 --> 00:19:07.816
+<v Poovannan, Rajendran>produce a solid plan, but with
+the team, Nikki, we have already</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2624-2
+00:19:07.816 --> 00:19:11.489
+<v Poovannan, Rajendran>discussed the plan which we
+currently have where it is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2624-3
+00:19:11.489 --> 00:19:14.094
+<v Poovannan, Rajendran>leading into. We are planning to
+drop.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-0
+00:19:15.474 --> 00:19:20.272
+<v Poovannan, Rajendran>Uat, one on this side of the
+Christmas and UAT two in January</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-1
+00:19:20.272 --> 00:19:25.147
+<v Poovannan, Rajendran>and further proceed to go live
+in February. These numbers need</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-2
+00:19:25.147 --> 00:19:29.171
+<v Poovannan, Rajendran>to be validated by the
+engineering team and that is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-3
+00:19:29.171 --> 00:19:33.891
+<v Poovannan, Rajendran>planned in the following month
+and we'll keep you updated on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-4
+00:19:33.891 --> 00:19:38.457
+<v Poovannan, Rajendran>that. Then we'll be able to
+publish a solid plan and track</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2670-5
+00:19:38.457 --> 00:19:40.314
+<v Poovannan, Rajendran>along with that as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2681-0
+00:19:42.184 --> 00:19:44.824
+<v Poovannan, Rajendran>On the commercial, yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2673-0
+00:19:42.224 --> 00:19:42.584
+<v Swift, Christopher>So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2701-0
+00:19:42.274 --> 00:19:46.358
+<v Mullins, Nicky>They're just just sorry, just a
+apologies last week when we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2701-1
+00:19:46.358 --> 00:19:50.646
+<v Mullins, Nicky>spoken to the deep dive we were
+talking about fast path, which</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2701-2
+00:19:50.646 --> 00:19:54.594
+<v Mullins, Nicky>was a pre Christmas go live and
+that was being driven by.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2734-0
+00:19:54.634 --> 00:19:58.121
+<v Mullins, Nicky>David and people above to to
+deliver sequel claims ahead of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2734-1
+00:19:58.121 --> 00:20:01.201
+<v Mullins, Nicky>Christmas, so they were
+targeting October, November.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2734-2
+00:20:01.201 --> 00:20:04.920
+<v Mullins, Nicky>Since then we've had discussions
+about this happy path which is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2734-3
+00:20:04.920 --> 00:20:06.954
+<v Mullins, Nicky>more a lower risk, higher
+quality.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2751-0
+00:20:08.354 --> 00:20:11.283
+<v Mullins, Nicky>You know more reliability of a
+delivery and so that's what we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2751-1
+00:20:11.283 --> 00:20:13.314
+<v Mullins, Nicky>talk fast and happy. So fast was
+November.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2787-0
+00:20:13.754 --> 00:20:16.831
+<v Mullins, Nicky>Which we're saying now is is
+high risk, very unlikely to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2787-1
+00:20:16.831 --> 00:20:20.394
+<v Mullins, Nicky>deliver. So now we're looking at
+what would be the happy path and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2787-2
+00:20:20.394 --> 00:20:23.579
+<v Mullins, Nicky>where would that land us and
+hence my questions that start</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2777-0
+00:20:21.724 --> 00:20:21.924
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2787-3
+00:20:23.579 --> 00:20:25.954
+<v Mullins, Nicky>that would push us into Q1 we're
+currently.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2789-0
+00:20:28.994 --> 00:20:29.754
+<v Mullins, Nicky>The.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2801-0
+00:20:29.774 --> 00:20:31.745
+<v Mullins, Nicky>The PAS upgrade is already
+sitting there and obviously</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2801-1
+00:20:31.745 --> 00:20:32.534
+<v Mullins, Nicky>blueprint too as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2802-0
+00:20:32.854 --> 00:20:33.094
+<v Poovannan, Rajendran>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-0
+00:20:34.044 --> 00:20:36.956
+<v Mudhar, Arvinder>So we can talk about this. I
+should like it's Chris's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-1
+00:20:36.956 --> 00:20:40.245
+<v Mudhar, Arvinder>business. So you've got to be
+comfortable that it comes at a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-2
+00:20:40.245 --> 00:20:43.695
+<v Mudhar, Arvinder>point where in terms of business
+volumes, you can manage it and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-3
+00:20:43.695 --> 00:20:47.254
+<v Mudhar, Arvinder>but also in terms of risk at the
+point of delivery, you're you're</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-4
+00:20:47.254 --> 00:20:50.381
+<v Mudhar, Arvinder>comfortable with it. So we need
+to work through that with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2842-5
+00:20:50.381 --> 00:20:51.244
+<v Mudhar, Arvinder>yourself, Chris.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2844-0
+00:20:52.084 --> 00:20:52.964
+<v Swift, Christopher>Yeah, exactly.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2855-0
+00:20:54.444 --> 00:20:57.029
+<v Swift, Christopher>For us in the claims team,
+obviously 'cause it's an</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2855-1
+00:20:57.029 --> 00:20:57.924
+<v Swift, Christopher>upgrade, it's not.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-0
+00:21:00.064 --> 00:21:03.166
+<v Swift, Christopher>It's not gonna affect us by
+doing it later if if need be,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-1
+00:21:03.166 --> 00:21:06.535
+<v Swift, Christopher>but it does affect obviously the
+reserving team and that's why</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-2
+00:21:06.535 --> 00:21:09.904
+<v Swift, Christopher>David and everyone like Richard
+was pushing for it. So I think</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-3
+00:21:09.904 --> 00:21:13.273
+<v Swift, Christopher>obviously it'd be interesting.
+It'd be interesting to get that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-4
+00:21:13.273 --> 00:21:16.748
+<v Swift, Christopher>information as soon as possible
+because that communication needs</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2898-0
+00:21:16.484 --> 00:21:16.684
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-5
+00:21:16.748 --> 00:21:19.904
+<v Swift, Christopher>to go out to all the people
+that's going to be impacted by</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2904-6
+00:21:19.904 --> 00:21:20.064
+<v Swift, Christopher>it.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2933-0
+00:21:20.104 --> 00:21:23.598
+<v Swift, Christopher>But from a closure perspective,
+yeah, I think from operationally</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2933-1
+00:21:23.598 --> 00:21:27.092
+<v Swift, Christopher>we'll have somebody to test and
+business as well. So we'll be in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2933-2
+00:21:27.092 --> 00:21:30.424
+<v Swift, Christopher>a position at whatever point to
+be able to do that, I reckon.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2935-0
+00:21:34.124 --> 00:21:34.964
+<v Mullins, Nicky>Well, thanks Chris.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2937-0
+00:21:39.674 --> 00:21:39.914
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-0
+00:21:42.374 --> 00:21:46.661
+<v Poovannan, Rajendran>K So Nikki a follow up question
+which you had answers more</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-1
+00:21:46.661 --> 00:21:50.948
+<v Poovannan, Rajendran>towards the commercial and is
+coming discussed with Simon,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-2
+00:21:50.948 --> 00:21:54.872
+<v Poovannan, Rajendran>what we have given you is
+something more like a fixed</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-3
+00:21:54.872 --> 00:21:59.522
+<v Poovannan, Rajendran>price and we will try to honour
+it to the best possible extent.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-4
+00:21:59.522 --> 00:22:03.664
+<v Poovannan, Rajendran>Of course I can't give a
+commitment that will definitely</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/2988-5
+00:22:03.664 --> 00:22:06.934
+<v Poovannan, Rajendran>stick there, but if it is within
+reasonable.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3022-0
+00:22:08.654 --> 00:22:12.046
+<v Poovannan, Rajendran>Ask of the project. We will
+stick with that. I'll get a much</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3022-1
+00:22:12.046 --> 00:22:15.549
+<v Poovannan, Rajendran>more better narration from Simon
+once he's back from holidays.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3022-2
+00:22:15.549 --> 00:22:18.885
+<v Poovannan, Rajendran>I'll be able to commit on that
+as well. And once we get the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3022-3
+00:22:18.885 --> 00:22:22.054
+<v Poovannan, Rajendran>project plan in place, I think
+these both will coincide.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3052-0
+00:22:23.984 --> 00:22:29.477
+<v Mullins, Nicky>And and that was the the fixed
+price for the movement to 7.2</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3052-1
+00:22:29.477 --> 00:22:34.791
+<v Mullins, Nicky>and OK, that was it. So it's
+coming and that's taking into</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3052-2
+00:22:34.791 --> 00:22:40.104
+<v Mullins, Nicky>account the six days effort that
+Chris has been reviewing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-0
+00:22:40.634 --> 00:22:45.145
+<v Poovannan, Rajendran>Yes. So that is something which
+we need to work with. Chris and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-1
+00:22:45.145 --> 00:22:49.586
+<v Poovannan, Rajendran>David and Chris are aligned. I
+believe they want a very stable</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-2
+00:22:49.586 --> 00:22:54.167
+<v Poovannan, Rajendran>claims product to be configured
+and production lied not go about</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-3
+00:22:54.167 --> 00:22:58.678
+<v Poovannan, Rajendran>the rabbit hole of enabling all
+the features and going into the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-4
+00:22:58.678 --> 00:23:02.837
+<v Poovannan, Rajendran>configuration. But that's going
+to become a TNM engagement</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-5
+00:23:02.837 --> 00:23:07.277
+<v Poovannan, Rajendran>completely. So that is something
+as we get more details, we'll</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3110-6
+00:23:07.277 --> 00:23:09.674
+<v Poovannan, Rajendran>work with Chris and nail it
+down.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3118-0
+00:23:10.714 --> 00:23:13.754
+<v Poovannan, Rajendran>Few of the things which was not
+part of the fast part, Chris.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-0
+00:23:14.084 --> 00:23:17.932
+<v Poovannan, Rajendran>For this year, the changes which
+was there, our team is looking</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-1
+00:23:17.932 --> 00:23:21.780
+<v Poovannan, Rajendran>at it, what will be implemented,
+what will be part of the scope</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-2
+00:23:21.780 --> 00:23:25.567
+<v Poovannan, Rajendran>and so on. We'll get progressive
+updates on that. Chris. Yeah,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-3
+00:23:25.567 --> 00:23:29.295
+<v Poovannan, Rajendran>'cause, that'll be good. 'cause.
+Obviously we are going to be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-4
+00:23:29.295 --> 00:23:33.143
+<v Poovannan, Rajendran>waiting till January, then then
+extra items that we'd suggested</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3156-5
+00:23:33.143 --> 00:23:33.684
+<v Poovannan, Rajendran>would be.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3172-0
+00:23:35.044 --> 00:23:38.230
+<v Swift, Christopher>Very welcomed and obviously we
+would have the time to be able</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3172-1
+00:23:38.230 --> 00:23:41.364
+<v Swift, Christopher>to do that and it was scope for
+as well, wasn't it? So yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3200-0
+00:23:44.544 --> 00:23:49.021
+<v Poovannan, Rajendran>So we'll keep you updated. Pavan
+is the project manager on that,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3200-1
+00:23:49.021 --> 00:23:53.360
+<v Poovannan, Rajendran>so he will be sending regular
+updates. One CS this engineering</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3200-2
+00:23:53.360 --> 00:23:57.562
+<v Poovannan, Rajendran>deep dive completed. I think
+we'll get start getting regular</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3200-3
+00:23:57.562 --> 00:23:58.664
+<v Poovannan, Rajendran>updates on that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3205-0
+00:24:00.364 --> 00:24:02.484
+<v Swift, Christopher>We still likely to get the plan
+next week.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3227-0
+00:24:03.484 --> 00:24:06.193
+<v Swift, Christopher>'Cause, obviously that was
+pushed back, wasn't it? And I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3227-1
+00:24:06.193 --> 00:24:09.093
+<v Swift, Christopher>think that's what we're kind of
+hoping for and to be able to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3227-2
+00:24:09.093 --> 00:24:10.804
+<v Swift, Christopher>give that communication out
+really.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3254-0
+00:24:11.184 --> 00:24:15.184
+<v Poovannan, Rajendran>We had the review of 1 planned
+right Chris last week we can</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3231-0
+00:24:11.464 --> 00:24:11.784
+<v Mullins, Nicky>Absol.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3254-1
+00:24:15.184 --> 00:24:19.051
+<v Poovannan, Rajendran>share that, but until the
+engineering team actually looks</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3254-2
+00:24:19.051 --> 00:24:21.984
+<v Poovannan, Rajendran>into it and validates all the
+final points.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3270-0
+00:24:23.444 --> 00:24:26.780
+<v Poovannan, Rajendran>The concrete numbers will have
+to wait till August to get it. I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3270-1
+00:24:26.780 --> 00:24:30.011
+<v Poovannan, Rajendran>will check with Pavan and ask
+him to send you a note on that,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3270-2
+00:24:30.011 --> 00:24:30.324
+<v Poovannan, Rajendran>Chris.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3306-0
+00:24:30.914 --> 00:24:34.408
+<v Mullins, Nicky>Yeah, I think that we maybe we
+won't get you to this list, but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3306-1
+00:24:34.408 --> 00:24:37.846
+<v Mullins, Nicky>there's some themes coming up
+around this kind of waiting for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3306-2
+00:24:37.846 --> 00:24:40.897
+<v Mullins, Nicky>perfection and we we just need
+to get a bit more agile</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3306-3
+00:24:40.897 --> 00:24:42.394
+<v Mullins, Nicky>authorities the phrase but.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-0
+00:24:44.634 --> 00:24:47.394
+<v Mullins, Nicky>Are we are comfortable to
+receive a draught plan earlier</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-1
+00:24:47.394 --> 00:24:50.155
+<v Mullins, Nicky>rather than an 100% plan late?
+And I think that what I'm</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-2
+00:24:50.155 --> 00:24:53.205
+<v Mullins, Nicky>hearing at the moment there's
+two weeks elapsing every time we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-3
+00:24:53.205 --> 00:24:56.305
+<v Mullins, Nicky>go through a planning iteration
+with with you guys. So you know</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-4
+00:24:56.305 --> 00:24:59.501
+<v Mullins, Nicky>our commitment to you is give us
+a draught plan. We will treat it</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-5
+00:24:59.501 --> 00:25:02.503
+<v Mullins, Nicky>as draught. We're not going to
+kind of hold you down to that,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3360-6
+00:25:02.503 --> 00:25:04.634
+<v Mullins, Nicky>but I'd rather see some
+iterative planning.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-0
+00:25:05.184 --> 00:25:08.322
+<v Mullins, Nicky>Coming back and forth, back and
+forth and then we can take it,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-1
+00:25:08.322 --> 00:25:11.062
+<v Mullins, Nicky>run away and come back and and
+finalise those internal</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-2
+00:25:11.062 --> 00:25:14.150
+<v Mullins, Nicky>discrepancies. At the moment,
+this kind of lag in planning is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-3
+00:25:14.150 --> 00:25:17.338
+<v Mullins, Nicky>really causing challenges for us
+and we're seeing it in claims.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-4
+00:25:17.338 --> 00:25:20.626
+<v Mullins, Nicky>We're seeing it in powers. We're
+seeing other areas. So if we can</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-5
+00:25:20.626 --> 00:25:23.565
+<v Mullins, Nicky>commit to you in some way that
+gives a draught and we will</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-6
+00:25:23.565 --> 00:25:26.703
+<v Mullins, Nicky>treat it as a draught, please do
+encourage the team to show it</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3405-0
+00:25:24.974 --> 00:25:25.254
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-7
+00:25:26.703 --> 00:25:29.791
+<v Mullins, Nicky>100% late. Is is really, really
+difficult and it always feels</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-8
+00:25:29.791 --> 00:25:32.979
+<v Mullins, Nicky>that the clock stops for various
+like the focus jumps across to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-9
+00:25:32.979 --> 00:25:35.968
+<v Mullins, Nicky>to IQ. And that really isn't
+isn't the spirit of what we're</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3435-10
+00:25:35.968 --> 00:25:37.064
+<v Mullins, Nicky>trying to do together.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3459-0
+00:25:38.144 --> 00:25:41.479
+<v Poovannan, Rajendran>Yeah, I think Pavan was planning
+to send it across. So let me</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3459-1
+00:25:41.479 --> 00:25:44.707
+<v Poovannan, Rajendran>check with them because Mark
+also requested that along with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3459-2
+00:25:44.707 --> 00:25:47.504
+<v Poovannan, Rajendran>Chris, so I'll make sure that
+you receive the plan.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3455-0
+00:25:45.534 --> 00:25:46.014
+<v Mullins, Nicky>We did.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3461-0
+00:25:48.054 --> 00:25:48.774
+<v Mullins, Nicky>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3463-0
+00:25:49.094 --> 00:25:49.654
+<v Swift, Christopher>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3465-0
+00:25:52.014 --> 00:25:52.694
+<v Poovannan, Rajendran>So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-0
+00:25:54.054 --> 00:25:58.021
+<v Poovannan, Rajendran>Jumping on to the reporting
+queries, Chris, there has been</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-1
+00:25:58.021 --> 00:26:02.391
+<v Poovannan, Rajendran>sow which was there earlier, but
+now we had not request received</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-2
+00:26:02.391 --> 00:26:06.694
+<v Poovannan, Rajendran>any updates on the extension or
+a new SLA in place. So the team</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-3
+00:26:06.694 --> 00:26:10.929
+<v Poovannan, Rajendran>has been released. So if any new
+support has been requested it</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-4
+00:26:10.929 --> 00:26:14.627
+<v Poovannan, Rajendran>has to be via the Zendest
+support. We had received one</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-5
+00:26:14.627 --> 00:26:18.930
+<v Poovannan, Rajendran>such request via Ian Welford and
+we are working on it but I had</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-6
+00:26:18.930 --> 00:26:23.166
+<v Poovannan, Rajendran>routed through the support desk
+so that we can work out how it</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3532-7
+00:26:23.166 --> 00:26:24.174
+<v Poovannan, Rajendran>can be handled.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3541-0
+00:26:25.504 --> 00:26:27.184
+<v Poovannan, Rajendran>Just keeping you updated, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3543-0
+00:26:25.834 --> 00:26:27.714
+<v Swift, Christopher>No problem. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3563-0
+00:26:27.014 --> 00:26:30.170
+<v Mudhar, Arvinder>Yep. So just your your point
+there about claims support</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3563-1
+00:26:30.170 --> 00:26:33.609
+<v Mudhar, Arvinder>budget has been exhausted. If we
+want more work, do we do we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3563-2
+00:26:33.609 --> 00:26:36.934
+<v Mudhar, Arvinder>effectively need to kind of work
+out how we pay for it or?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3570-0
+00:26:37.094 --> 00:26:39.254
+<v Mudhar, Arvinder>Is is it that you don't have any
+more people left?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-0
+00:26:40.054 --> 00:26:43.715
+<v Poovannan, Rajendran>No, no, no. The people have been
+assigned to different work</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-1
+00:26:43.715 --> 00:26:47.437
+<v Poovannan, Rajendran>arvinder the IQ had a dedicated
+team of people for a certain</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-2
+00:26:47.437 --> 00:26:51.037
+<v Poovannan, Rajendran>capacity each month. Now that's
+exhausted. So now it'll be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-3
+00:26:51.037 --> 00:26:54.943
+<v Poovannan, Rajendran>routed via the support and based
+on the request, people will be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-4
+00:26:54.943 --> 00:26:58.726
+<v Poovannan, Rajendran>identified and made to work on
+that. And based on the ASK, we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-5
+00:26:58.726 --> 00:27:02.204
+<v Poovannan, Rajendran>will discuss whether it is
+chargeable and how much it is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3634-6
+00:27:02.204 --> 00:27:02.814
+<v Poovannan, Rajendran>and so on.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3659-0
+00:27:04.544 --> 00:27:08.229
+<v Mudhar, Arvinder>OK. And it almost sounds like
+for the next period, we need to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3639-0
+00:27:05.404 --> 00:27:06.044
+<v Poovannan, Rajendran>We, we.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3645-0
+00:27:07.804 --> 00:27:08.084
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3659-1
+00:27:08.229 --> 00:27:11.736
+<v Mudhar, Arvinder>just maybe look at how much we
+put aside if if we were all</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3659-2
+00:27:11.736 --> 00:27:12.984
+<v Mudhar, Arvinder>exhausted it already.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3698-0
+00:27:14.354 --> 00:27:19.119
+<v Poovannan, Rajendran>Yes, we need to work out that
+team is aware of that. So we had</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3698-1
+00:27:19.119 --> 00:27:23.203
+<v Poovannan, Rajendran>budget for claims and
+underwriting, I believe, Chris.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3698-2
+00:27:23.203 --> 00:27:27.892
+<v Poovannan, Rajendran>So that's both been the days
+it's been elapsed. So if we want</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3698-3
+00:27:27.892 --> 00:27:32.657
+<v Poovannan, Rajendran>we can get in that request as
+well arvinder. But even with the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3698-4
+00:27:32.657 --> 00:27:35.834
+<v Poovannan, Rajendran>support you can get chargeable
+work done.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3717-0
+00:27:36.864 --> 00:27:39.871
+<v Poovannan, Rajendran>So SRW is not the only thing
+waiting it, but the advantage</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3717-1
+00:27:39.871 --> 00:27:43.184
+<v Poovannan, Rajendran>with this will be you'll have a
+dedicated team available to you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-0
+00:27:44.434 --> 00:27:47.478
+<v Swift, Christopher>And this was all just from a
+reporting perspective, wasn't</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3725-0
+00:27:46.454 --> 00:27:46.614
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3732-0
+00:27:47.134 --> 00:27:47.414
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-1
+00:27:47.478 --> 00:27:50.575
+<v Swift, Christopher>it? Not for like our claim
+support because we get obviously</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-2
+00:27:50.575 --> 00:27:53.722
+<v Swift, Christopher>an hour every month where we sit
+with our support team to go</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-3
+00:27:53.722 --> 00:27:56.921
+<v Swift, Christopher>through outstanding tickets.
+This is more for what Ian Wealth</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-4
+00:27:56.921 --> 00:27:59.914
+<v Swift, Christopher>has been working on the data
+lake and understanding where</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3769-5
+00:27:59.914 --> 00:28:01.514
+<v Swift, Christopher>tables and things like that so.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3779-0
+00:28:02.034 --> 00:28:04.800
+<v Poovannan, Rajendran>Yeah, this is more of a Hadoop
+things which might come up,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3779-1
+00:28:04.800 --> 00:28:05.034
+<v Poovannan, Rajendran>yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3785-0
+00:28:11.244 --> 00:28:12.404
+<v Poovannan, Rajendran>You're OK with that, arvinder?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3787-0
+00:28:12.914 --> 00:28:13.554
+<v Mudhar, Arvinder>It was.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3845-0
+00:28:14.064 --> 00:28:19.236
+<v Poovannan, Rajendran>Yeah, thank you. So just a brief
+update on sequel underwriting</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3845-1
+00:28:19.236 --> 00:28:24.408
+<v Poovannan, Rajendran>RC1 and RC2 drops have been done
+as per the plan and I checked</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3845-2
+00:28:24.408 --> 00:28:29.416
+<v Poovannan, Rajendran>internally and reconfirmed that
+RC3 and RC4 are tracking are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3845-3
+00:28:29.416 --> 00:28:34.506
+<v Poovannan, Rajendran>tracking to plan. There are no
+delays expected in this and we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3845-4
+00:28:34.506 --> 00:28:39.104
+<v Poovannan, Rajendran>are still aiming the Q1 call
+live for SQL underwriting.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3873-0
+00:28:43.294 --> 00:28:46.936
+<v Mudhar, Arvinder>OK, I think there's going back
+to the planning piece. So SQL</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3873-1
+00:28:46.936 --> 00:28:50.579
+<v Mudhar, Arvinder>underwriting going up, going
+live at the same time as claims</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3873-2
+00:28:50.579 --> 00:28:54.460
+<v Mudhar, Arvinder>all this kind of stuff. We just
+need to meet it, be very careful</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3873-3
+00:28:54.460 --> 00:28:55.654
+<v Mudhar, Arvinder>about that schedule.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3875-0
+00:28:56.014 --> 00:28:56.254
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3878-0
+00:28:56.304 --> 00:28:56.744
+<v Poovannan, Rajendran>Yes.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3907-0
+00:28:56.444 --> 00:28:59.732
+<v Gillett, Andrew>Wait, wait. Yeah, we we need to.
+We need to discuss this</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3907-1
+00:28:59.732 --> 00:29:03.250
+<v Gillett, Andrew>specifically. Our recommendation
+obviously would be you know</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3907-2
+00:29:03.250 --> 00:29:06.884
+<v Gillett, Andrew>under no circumstances do we try
+and go live at the same time.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3919-0
+00:29:08.444 --> 00:29:12.029
+<v Gillett, Andrew>With sequel claims and their
+sequel and writing V3 upgrade,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3919-1
+00:29:12.029 --> 00:29:13.284
+<v Gillett, Andrew>it's too much change.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3923-0
+00:29:14.804 --> 00:29:15.484
+<v Gillett, Andrew>Far too much overlap.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3945-0
+00:29:17.284 --> 00:29:21.649
+<v Gillett, Andrew>And you know, very high risk if
+we took that approach. So my</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3945-1
+00:29:21.649 --> 00:29:26.373
+<v Gillett, Andrew>recommendation is is I think you
+your preferences to go live with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3945-2
+00:29:26.373 --> 00:29:27.804
+<v Gillett, Andrew>sequel claims first.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3956-0
+00:29:28.304 --> 00:29:31.412
+<v Gillett, Andrew>That makes absolutely makes
+sense for the sequel</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3956-1
+00:29:31.412 --> 00:29:32.744
+<v Gillett, Andrew>underwriting project.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3988-0
+00:29:34.184 --> 00:29:38.295
+<v Gillett, Andrew>You know, my recommendation will
+be we go live with sequel</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3988-1
+00:29:38.295 --> 00:29:42.126
+<v Gillett, Andrew>claims. I think Pavan was
+talking around about a 17th,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3988-2
+00:29:42.126 --> 00:29:46.376
+<v Gillett, Andrew>18th of February date and then
+we get through the Hyper care</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3988-3
+00:29:46.376 --> 00:29:46.864
+<v Gillett, Andrew>period.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/3997-0
+00:29:48.584 --> 00:29:53.304
+<v Gillett, Andrew>Plus a couple of weeks and then
+we would look to go live with.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4005-0
+00:29:54.984 --> 00:29:57.624
+<v Gillett, Andrew>Segal and writing a minimum of a
+month later.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-0
+00:30:00.874 --> 00:30:04.577
+<v Gillett, Andrew>Obviously steering well clear of
+the month end, so you know</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-1
+00:30:04.577 --> 00:30:08.465
+<v Gillett, Andrew>potentially that would be a you
+know, a 17th of March. But but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-2
+00:30:08.465 --> 00:30:12.291
+<v Gillett, Andrew>again we haven't discussed any
+of this and and you know maybe</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4028-0
+00:30:11.734 --> 00:30:11.934
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-3
+00:30:12.291 --> 00:30:16.241
+<v Gillett, Andrew>actually for safety's sake you
+might want to say actually let's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-4
+00:30:16.241 --> 00:30:20.005
+<v Gillett, Andrew>wait until April because we've
+got quarter end and so on you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4045-0
+00:30:17.704 --> 00:30:18.184
+<v Mullins, Nicky>Yeah. So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4053-0
+00:30:19.124 --> 00:30:20.484
+<v Poovannan, Rajendran>Finish the quarter end, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4052-5
+00:30:20.005 --> 00:30:20.314
+<v Gillett, Andrew>know.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4076-0
+00:30:20.704 --> 00:30:25.410
+<v Mullins, Nicky>The high level the conversation
+I had with Rob before he went on</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4076-1
+00:30:25.410 --> 00:30:30.115
+<v Mullins, Nicky>leave was February, claims April
+pass and then July indicatively</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4069-0
+00:30:28.574 --> 00:30:28.654
+<v Gillett, Andrew>Mm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4076-2
+00:30:30.115 --> 00:30:30.984
+<v Mullins, Nicky>Blueprint 2.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4083-0
+00:30:31.924 --> 00:30:35.684
+<v Gillett, Andrew>Yeah, I'd, I'd say that's that's
+definitely, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4087-0
+00:30:37.204 --> 00:30:38.964
+<v Gillett, Andrew>I I I definitely agree with
+that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4095-0
+00:30:40.024 --> 00:30:41.664
+<v Mullins, Nicky>But that, that, that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4104-0
+00:30:40.444 --> 00:30:43.404
+<v Gillett, Andrew>March is March is pushing it.
+You know, that's why I was.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4143-0
+00:30:42.374 --> 00:30:46.156
+<v Mullins, Nicky>Yeah, but but that that's me
+clunkly putting 3 three things</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4109-0
+00:30:45.454 --> 00:30:45.694
+<v Gillett, Andrew>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4143-1
+00:30:46.156 --> 00:30:50.002
+<v Mullins, Nicky>in an order. What we now need
+from you and the team is what?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4143-2
+00:30:50.002 --> 00:30:53.658
+<v Mullins, Nicky>Where's the kind of dependencies
+and logic and lead times</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4137-0
+00:30:52.784 --> 00:30:54.464
+<v Gillett, Andrew>Absolutely. Yep. Yep, Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4143-3
+00:30:53.658 --> 00:30:57.567
+<v Mullins, Nicky>etcetera that that justify me
+kind of putting three things in</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4143-4
+00:30:57.567 --> 00:30:58.134
+<v Mullins, Nicky>an order.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-0
+00:30:57.574 --> 00:31:01.064
+<v Gillett, Andrew>Yeah. And and there are some
+clear dependencies we've talked</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4147-0
+00:30:58.214 --> 00:30:58.294
+<v Mullins, Nicky>So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-1
+00:31:01.064 --> 00:31:04.210
+<v Gillett, Andrew>about doing end to end testing
+on the SQL underwriting</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-2
+00:31:04.210 --> 00:31:07.700
+<v Gillett, Andrew>programme and that's full end to
+end that's that's Workbench</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-3
+00:31:07.700 --> 00:31:11.018
+<v Gillett, Andrew>sequel and writing Eclipse
+claims and impact. And clearly</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-4
+00:31:11.018 --> 00:31:14.565
+<v Gillett, Andrew>we don't want to do that on a
+version of claims and then have</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-5
+00:31:14.565 --> 00:31:18.169
+<v Gillett, Andrew>to do it again a few weeks later
+on a later version of claims.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4190-0
+00:31:17.634 --> 00:31:17.874
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-6
+00:31:18.169 --> 00:31:21.887
+<v Gillett, Andrew>So. So again timing on that and
+I think the timing works it, but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-7
+00:31:21.887 --> 00:31:25.034
+<v Gillett, Andrew>it again it's one of those
+dependencies you talk about</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4213-8
+00:31:25.034 --> 00:31:27.894
+<v Gillett, Andrew>Nikki that we need to we need to
+clearly map out.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4212-0
+00:31:26.904 --> 00:31:27.344
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4225-0
+00:31:28.544 --> 00:31:32.855
+<v Mudhar, Arvinder>And I think the the other thing
+for for us, I think this is more</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4225-1
+00:31:32.855 --> 00:31:33.584
+<v Mudhar, Arvinder>fun in the.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-0
+00:31:34.564 --> 00:31:36.976
+<v Mudhar, Arvinder>The various products aren't the
+only things within our</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-1
+00:31:36.976 --> 00:31:39.432
+<v Mudhar, Arvinder>environment that are going
+through major upgrades. So I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-2
+00:31:39.432 --> 00:31:42.151
+<v Mudhar, Arvinder>think we're going to have to
+build all that stuff in as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-3
+00:31:42.151 --> 00:31:44.695
+<v Mudhar, Arvinder>So it's quite a congested
+sequence in quarter one already</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-4
+00:31:44.695 --> 00:31:47.414
+<v Mudhar, Arvinder>already going into quarter two.
+So we've got a bunch of stuff</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4258-0
+00:31:46.834 --> 00:31:47.154
+<v Gillett, Andrew>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-5
+00:31:47.414 --> 00:31:49.957
+<v Mudhar, Arvinder>happening within Workbench and
+and Q and all this kind of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-6
+00:31:49.957 --> 00:31:52.325
+<v Mudhar, Arvinder>stuff. So that's that's
+something we'll have to think</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4274-7
+00:31:52.325 --> 00:31:52.764
+<v Mudhar, Arvinder>about, OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4277-0
+00:31:53.094 --> 00:31:53.974
+<v Gillett, Andrew>Yeah, understood.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4278-0
+00:31:57.584 --> 00:31:57.704
+<v Poovannan, Rajendran>Can.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4291-0
+00:31:58.384 --> 00:32:02.161
+<v Poovannan, Rajendran>Yeah. So jump into the next
+item, Blueprint 2 we already</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4291-1
+00:32:02.161 --> 00:32:02.824
+<v Poovannan, Rajendran>discussed.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4313-0
+00:32:04.344 --> 00:32:08.548
+<v Poovannan, Rajendran>Nikki, there are some invoices
+waiting thing. Po numbers. I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4313-1
+00:32:08.548 --> 00:32:12.963
+<v Poovannan, Rajendran>have added those details in the
+next slide that's been pending</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4313-2
+00:32:12.963 --> 00:32:14.224
+<v Poovannan, Rajendran>for quite a while.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4319-0
+00:32:14.884 --> 00:32:16.924
+<v Mullins, Nicky>Have you have you shared those
+with Tristan?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4322-0
+00:32:18.294 --> 00:32:19.494
+<v Poovannan, Rajendran>Christian no.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4324-0
+00:32:19.824 --> 00:32:20.864
+<v Mullins, Nicky>The Blueprint 2.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4338-0
+00:32:23.994 --> 00:32:28.718
+<v Poovannan, Rajendran>No, not with respect. I can
+share the details. So these are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4338-1
+00:32:28.718 --> 00:32:31.474
+<v Poovannan, Rajendran>the invoices. We are awaiting
+POS.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4344-0
+00:32:32.114 --> 00:32:34.234
+<v Mullins, Nicky>Our project manager for
+Blueprint 2 and PAS.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4354-0
+00:32:36.064 --> 00:32:37.984
+<v Mullins, Nicky>He does both. He does both.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4352-0
+00:32:36.224 --> 00:32:37.704
+<v Poovannan, Rajendran>And pass OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4358-0
+00:32:37.174 --> 00:32:40.974
+<v Swift, Christopher>I think Helen normally looks at
+this part of this call.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4376-0
+00:32:43.434 --> 00:32:46.772
+<v Swift, Christopher>That's who normally speaks to us
+in improving on Helen. Helen</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4366-0
+00:32:45.404 --> 00:32:45.644
+<v Mudhar, Arvinder>Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4376-1
+00:32:46.772 --> 00:32:49.517
+<v Swift, Christopher>Norma joins these calls,
+actually. So I don't know</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4376-2
+00:32:49.517 --> 00:32:50.594
+<v Swift, Christopher>whether she's about.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4387-0
+00:32:52.784 --> 00:32:55.587
+<v Mullins, Nicky>No, I haven't. No. Yeah. I
+didn't say she's accepted this</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4385-0
+00:32:55.114 --> 00:32:55.354
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4387-1
+00:32:55.587 --> 00:32:56.264
+<v Mullins, Nicky>meeting today.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4404-0
+00:32:58.864 --> 00:33:02.231
+<v Mullins, Nicky>OK, so whoever whoever you
+normally raise, please read back</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4394-0
+00:32:58.884 --> 00:32:59.564
+<v Poovannan, Rajendran>Yeah, I'll.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4403-0
+00:33:01.324 --> 00:33:02.484
+<v Mudhar, Arvinder>Yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4404-1
+00:33:02.231 --> 00:33:02.624
+<v Mullins, Nicky>to her.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4440-0
+00:33:02.624 --> 00:33:06.778
+<v Poovannan, Rajendran>I used to erase it with Alice
+and I was, so Rob conveyed to me</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4440-1
+00:33:06.778 --> 00:33:10.471
+<v Poovannan, Rajendran>that anything to do with
+underwriting, it'll be him and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4440-2
+00:33:10.471 --> 00:33:14.032
+<v Poovannan, Rajendran>other things can be routed
+through you is what he had</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4440-3
+00:33:14.032 --> 00:33:15.944
+<v Poovannan, Rajendran>advised me. Yeah. So if it's.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4441-0
+00:33:14.584 --> 00:33:17.144
+<v Mullins, Nicky>That was nice. That was nice.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4443-0
+00:33:14.914 --> 00:33:15.794
+<v Swift, Christopher>It's kind of it's kind of it.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4455-0
+00:33:16.884 --> 00:33:20.644
+<v Mudhar, Arvinder>Yeah. Yeah, yeah, yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4451-0
+00:33:17.184 --> 00:33:19.184
+<v Mullins, Nicky>Safe, safe from his plane to
+California. He's like, Yep.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4454-0
+00:33:19.994 --> 00:33:20.274
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-0
+00:33:21.704 --> 00:33:24.632
+<v Mullins, Nicky>So that was that again. Yes, I
+am Alice's replacement, but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-1
+00:33:24.632 --> 00:33:27.709
+<v Mullins, Nicky>Alice's role is is changing as
+well, so that's why I think we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-2
+00:33:27.709 --> 00:33:30.885
+<v Mullins, Nicky>need to make sure it goes to the
+right team. So yeah, including</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-3
+00:33:30.885 --> 00:33:33.913
+<v Mullins, Nicky>the e-mail. But I think Helen
+would be the person that needs</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-4
+00:33:33.913 --> 00:33:37.040
+<v Mullins, Nicky>to pay these. I wouldn't be able
+to sign off on them. Yeah. So</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4497-0
+00:33:36.334 --> 00:33:36.574
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-5
+00:33:37.040 --> 00:33:40.216
+<v Mullins, Nicky>send it on to me and I'll find
+out the right person to share it</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4506-0
+00:33:39.324 --> 00:33:39.884
+<v Poovannan, Rajendran>Sure.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4508-6
+00:33:40.216 --> 00:33:40.464
+<v Mullins, Nicky>with.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4535-0
+00:33:40.914 --> 00:33:45.358
+<v Poovannan, Rajendran>I'll do one thing. I'll publish
+**** **** with the minutes and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4519-0
+00:33:44.674 --> 00:33:44.914
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4535-1
+00:33:45.358 --> 00:33:49.732
+<v Poovannan, Rajendran>separately send out a mail to
+you. Rob Tristan and Helen Mart</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4530-0
+00:33:49.104 --> 00:33:49.744
+<v Mullins, Nicky>Yeah, go.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4535-2
+00:33:49.732 --> 00:33:52.554
+<v Poovannan, Rajendran>so that it it is all bases are
+covered.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4557-0
+00:33:52.774 --> 00:33:55.458
+<v Mullins, Nicky>Yes, apologies, I wasn't aware
+that you were. I've not received</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4557-1
+00:33:55.458 --> 00:33:57.974
+<v Mullins, Nicky>anything from you on this up
+until just seeing this now so.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-0
+00:33:57.824 --> 00:34:01.387
+<v Poovannan, Rajendran>OK. Yeah, I'll do it. Notice and
+on the top part of the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4560-0
+00:33:58.284 --> 00:33:59.044
+<v Mudhar, Arvinder>Yeah. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-1
+00:34:01.387 --> 00:34:05.460
+<v Poovannan, Rajendran>underwriting licences, there has
+been a discussion with Rob and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-2
+00:34:05.460 --> 00:34:09.023
+<v Poovannan, Rajendran>the way their licence cost has
+been worked out has been</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-3
+00:34:09.023 --> 00:34:12.905
+<v Poovannan, Rajendran>revised. So these numbers will
+slightly change. This has now</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-4
+00:34:12.905 --> 00:34:16.532
+<v Poovannan, Rajendran>been agreed and our internal
+team is working on that. So</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-5
+00:34:16.532 --> 00:34:20.413
+<v Poovannan, Rajendran>underwriting licence alone will
+be updated. I'll share those</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4607-6
+00:34:20.413 --> 00:34:21.304
+<v Poovannan, Rajendran>details, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4610-0
+00:34:21.854 --> 00:34:22.814
+<v Mullins, Nicky>Right. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4634-0
+00:34:22.364 --> 00:34:26.291
+<v Mudhar, Arvinder>OK. Nikki, one thing we're gonna
+have to do is just just go back</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4634-1
+00:34:26.291 --> 00:34:29.735
+<v Mudhar, Arvinder>to the work that this is
+internally that Anna and Shivaj</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4634-2
+00:34:29.735 --> 00:34:33.240
+<v Mudhar, Arvinder>are doing just to make sure
+these philtre into those 2025</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4634-3
+00:34:33.240 --> 00:34:33.844
+<v Mudhar, Arvinder>BAU costs.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4644-0
+00:34:33.874 --> 00:34:36.234
+<v Mullins, Nicky>Yeah, great. I'll just launch it
+done the same thing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4645-0
+00:34:36.364 --> 00:34:37.684
+<v Mudhar, Arvinder>Yeah. OK. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4648-0
+00:34:38.304 --> 00:34:40.864
+<v Poovannan, Rajendran>Yeah. So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4655-0
+00:34:41.584 --> 00:34:43.944
+<v Poovannan, Rajendran>Moving on to, yeah, we discussed
+this.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4675-0
+00:34:45.544 --> 00:34:49.117
+<v Poovannan, Rajendran>A quick view on the dashboard on
+where we are. So our governance</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4675-1
+00:34:49.117 --> 00:34:52.580
+<v Poovannan, Rajendran>of monthly and quarterly are in
+place. We are tracking, we are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4675-2
+00:34:52.580 --> 00:34:54.504
+<v Poovannan, Rajendran>having regular attendance on
+that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4685-0
+00:34:56.104 --> 00:34:59.467
+<v Poovannan, Rajendran>I am not sure about the last
+service score which is I need to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4685-1
+00:34:59.467 --> 00:35:00.064
+<v Poovannan, Rajendran>check that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4710-0
+00:35:01.554 --> 00:35:05.111
+<v Poovannan, Rajendran>Project the collaboration is
+working really well. Everybody's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4710-1
+00:35:05.111 --> 00:35:08.554
+<v Poovannan, Rajendran>aware where we are. There is
+project plan which needs to be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4710-2
+00:35:08.554 --> 00:35:12.111
+<v Poovannan, Rajendran>published and tracked. That is
+something we need to take care</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4710-3
+00:35:12.111 --> 00:35:12.914
+<v Poovannan, Rajendran>of as a whole.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-0
+00:35:14.234 --> 00:35:18.440
+<v Poovannan, Rajendran>But we have good understanding
+of where the project is leading,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-1
+00:35:18.440 --> 00:35:22.186
+<v Poovannan, Rajendran>where we are, what is the
+expectations, demand pipeline.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-2
+00:35:22.186 --> 00:35:26.261
+<v Poovannan, Rajendran>Both of us have visibility on
+what we are tracking. So that's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-3
+00:35:26.261 --> 00:35:30.467
+<v Poovannan, Rajendran>also partially in Green, beyond
+sequel Underwriting, Version 3,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-4
+00:35:30.467 --> 00:35:34.542
+<v Poovannan, Rajendran>Blueprint 2 and claims those are
+things are not yet discussed</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4759-5
+00:35:34.542 --> 00:35:38.354
+<v Poovannan, Rajendran>because these are really big
+items which we are tracking.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4783-0
+00:35:38.794 --> 00:35:42.727
+<v Poovannan, Rajendran>And some comfortness needs to be
+established before we move on to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4783-1
+00:35:42.727 --> 00:35:46.541
+<v Poovannan, Rajendran>the future. Visibility in this
+though Rob and Simon are looking</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4783-2
+00:35:46.541 --> 00:35:49.998
+<v Poovannan, Rajendran>towards whitespace straight
+through processing. There's a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4783-3
+00:35:49.998 --> 00:35:50.594
+<v Poovannan, Rajendran>different.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4789-0
+00:35:52.034 --> 00:35:53.634
+<v Poovannan, Rajendran>Topic which has been discussed
+with them.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4817-0
+00:35:55.484 --> 00:35:58.748
+<v Mullins, Nicky>Yes, but the other one that
+kinda strikes me is the green</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4817-1
+00:35:58.748 --> 00:36:01.731
+<v Mullins, Nicky>for overall rag for live
+projects. I think without a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4817-2
+00:36:01.731 --> 00:36:05.164
+<v Mullins, Nicky>holistic plan without I'd say
+that's Amber. I don't. I'm not</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4817-3
+00:36:05.164 --> 00:36:06.684
+<v Mullins, Nicky>sure it could be green now.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4816-0
+00:36:05.514 --> 00:36:05.954
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4821-0
+00:36:08.304 --> 00:36:09.504
+<v Poovannan, Rajendran>OK, I'll update that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-0
+00:36:11.014 --> 00:36:14.871
+<v Gillett, Andrew>Yeah, I think I think for me
+that 12 to 20 more four month</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-1
+00:36:14.871 --> 00:36:18.466
+<v Gillett, Andrew>visibility under demand
+pipeline. So basically you see</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-2
+00:36:18.466 --> 00:36:22.649
+<v Gillett, Andrew>saying exactly the same thing.
+So I'd agree, I think we need to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4843-0
+00:36:19.774 --> 00:36:19.894
+<v Mullins, Nicky>Hmm.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4847-0
+00:36:21.644 --> 00:36:21.884
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-3
+00:36:22.649 --> 00:36:26.375
+<v Gillett, Andrew>we we need to be amber until
+we've got the the portfolio</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-4
+00:36:26.375 --> 00:36:30.689
+<v Gillett, Andrew>governance meetings in place and
+running and everybody happy with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4868-5
+00:36:30.689 --> 00:36:32.454
+<v Gillett, Andrew>with having a clearview of.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4870-0
+00:36:32.894 --> 00:36:33.294
+<v Mullins, Nicky>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4877-0
+00:36:33.584 --> 00:36:36.944
+<v Gillett, Andrew>Of the work from? Yeah.
+Certainly from a a planning.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4879-0
+00:36:38.544 --> 00:36:39.024
+<v Gillett, Andrew>Perspective.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4917-0
+00:36:39.584 --> 00:36:42.514
+<v Mullins, Nicky>Yeah, 'cause. Right. Right now,
+I've been a crudely cost scope</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4917-1
+00:36:42.514 --> 00:36:45.258
+<v Mullins, Nicky>time. I haven't got all of those
+things confirmed. So they</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4917-2
+00:36:45.258 --> 00:36:48.141
+<v Mullins, Nicky>definitely can't be green. I'm
+not not so worried as red, but</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4910-0
+00:36:45.924 --> 00:36:47.924
+<v Gillett, Andrew>Yeah, yeah, I'm sorry.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4917-3
+00:36:48.141 --> 00:36:49.304
+<v Mullins, Nicky>hence I got to say Amber.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4929-0
+00:36:49.854 --> 00:36:54.322
+<v Poovannan, Rajendran>Yeah, understood. And
+commercials, we just discussed</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4929-1
+00:36:54.322 --> 00:36:57.694
+<v Poovannan, Rajendran>the invoices, sow will have the
+claims.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-0
+00:36:58.994 --> 00:37:03.759
+<v Poovannan, Rajendran>Srw signed, sorry for the typo.
+The SQL underwriting though it's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-1
+00:37:03.759 --> 00:37:07.645
+<v Poovannan, Rajendran>a non commercial piece of
+upgrade to SQL Underrating</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-2
+00:37:07.645 --> 00:37:12.190
+<v Poovannan, Rajendran>version 3, the SOW is not yet
+done. Andy is working with your</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-3
+00:37:12.190 --> 00:37:16.515
+<v Poovannan, Rajendran>team to get that in place. We
+just started that discussion</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-4
+00:37:16.515 --> 00:37:20.621
+<v Poovannan, Rajendran>more interested on the
+acceptance criteria. Yeah and we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4979-0
+00:37:18.074 --> 00:37:18.714
+<v Gillett, Andrew>Yeah. So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4986-5
+00:37:20.621 --> 00:37:20.914
+<v Poovannan, Rajendran>con.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4996-0
+00:37:20.754 --> 00:37:23.323
+<v Gillett, Andrew>Yeah, baby. So yeah, I know you
+and I haven't spoken since</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4996-1
+00:37:23.323 --> 00:37:24.194
+<v Gillett, Andrew>yesterday afternoon.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/4997-0
+00:37:24.794 --> 00:37:24.994
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5021-0
+00:37:25.914 --> 00:37:30.887
+<v Gillett, Andrew>But I agreed with Nicky that we
+will have the statement of work,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5021-1
+00:37:30.887 --> 00:37:35.554
+<v Gillett, Andrew>at least in good draught, by the
+end of Wednesday next week.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5032-0
+00:37:36.264 --> 00:37:38.424
+<v Poovannan, Rajendran>Wow, that's great progress.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5038-0
+00:37:36.814 --> 00:37:39.279
+<v Mullins, Nicky>Well, I think we said no, I
+didn't say it by the end we said</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5038-1
+00:37:39.279 --> 00:37:40.694
+<v Mullins, Nicky>for the meeting Wednesday
+morning.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5055-0
+00:37:40.984 --> 00:37:44.816
+<v Gillett, Andrew>For the meeting Wednesday
+morning. OK. It it's advancing.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5047-0
+00:37:43.584 --> 00:37:44.344
+<v Mullins, Nicky>So we can just.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5055-1
+00:37:44.816 --> 00:37:46.864
+<v Gillett, Andrew>So let's just talk offline, PV.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5060-0
+00:37:45.824 --> 00:37:47.624
+<v Mullins, Nicky>So that we could discuss it in
+the meeting.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5061-0
+00:37:47.254 --> 00:37:48.654
+<v Poovannan, Rajendran>Yeah, got it. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5080-0
+00:37:48.714 --> 00:37:51.500
+<v Gillett, Andrew>But you know, as as just to be
+clear, you know that will be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5080-1
+00:37:51.500 --> 00:37:53.914
+<v Gillett, Andrew>drafted, it won't be in through
+legal and so on so.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5082-0
+00:37:54.304 --> 00:37:55.504
+<v Mullins, Nicky>An absolute plan with that.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5086-0
+00:37:55.794 --> 00:37:56.474
+<v Poovannan, Rajendran>Yeah, yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5101-0
+00:37:55.854 --> 00:37:59.964
+<v Gillett, Andrew>I don't. I don't think that's a
+major ask really. I think it's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5097-0
+00:37:59.454 --> 00:38:00.254
+<v Mullins, Nicky>Cool. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5112-0
+00:37:59.654 --> 00:38:02.732
+<v Poovannan, Rajendran>Yeah, but that's a great
+progress from where we were last</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5101-1
+00:37:59.964 --> 00:38:00.094
+<v Gillett, Andrew>a.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5112-1
+00:38:02.732 --> 00:38:05.174
+<v Poovannan, Rajendran>week. So yeah, really appreciate
+the efforts.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5114-0
+00:38:08.484 --> 00:38:09.324
+<v Poovannan, Rajendran>So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5151-0
+00:38:11.334 --> 00:38:15.921
+<v Poovannan, Rajendran>Yeah, ask Nikki arvinder. Chris
+and Rob has been saying we need</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5151-1
+00:38:15.921 --> 00:38:20.007
+<v Poovannan, Rajendran>to be more transparent and
+upfront with the planning and</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5151-2
+00:38:20.007 --> 00:38:24.164
+<v Poovannan, Rajendran>details. So that's why the
+customer satisfaction in still</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5151-3
+00:38:24.164 --> 00:38:25.454
+<v Poovannan, Rajendran>tracking in Amber.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5167-0
+00:38:28.194 --> 00:38:33.141
+<v Poovannan, Rajendran>I think otherwise we are well,
+good on collaboration and how</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5167-1
+00:38:33.141 --> 00:38:37.114
+<v Poovannan, Rajendran>the partnership between the two
+companies, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5172-0
+00:38:40.054 --> 00:38:40.334
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-0
+00:38:40.414 --> 00:38:44.249
+<v Swift, Christopher>Just a shout out as well for Ray
+as from our support team. She's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-1
+00:38:44.249 --> 00:38:47.671
+<v Swift, Christopher>she came in the office last
+week, spent the whole day. We</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-2
+00:38:47.671 --> 00:38:50.857
+<v Swift, Christopher>got some good benefits from
+that. To be honest, we've</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-3
+00:38:50.857 --> 00:38:54.102
+<v Swift, Christopher>managed to clear a lot of
+outstanding tickets, lots of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-4
+00:38:54.102 --> 00:38:57.582
+<v Swift, Christopher>issues that we had. And then she
+also came into the office</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-5
+00:38:57.582 --> 00:39:00.827
+<v Swift, Christopher>yesterday to do a bit of a
+training session, which was</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-6
+00:39:00.827 --> 00:39:04.603
+<v Swift, Christopher>successful as well, just to show
+the team a better way of being</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-7
+00:39:04.603 --> 00:39:07.848
+<v Swift, Christopher>able to action some of the
+review tasks and things. So</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5251-8
+00:39:07.848 --> 00:39:09.854
+<v Swift, Christopher>yeah, just a shout out for
+Ray's.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5281-0
+00:39:12.004 --> 00:39:16.204
+<v Poovannan, Rajendran>That's really good news and the
+the show and tell was last week</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5281-1
+00:39:16.204 --> 00:39:20.011
+<v Poovannan, Rajendran>and yesterday was also very
+reassess it, Chris. OK, we'll</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5272-0
+00:39:18.874 --> 00:39:20.074
+<v Swift, Christopher>Yeah, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5281-2
+00:39:20.011 --> 00:39:22.964
+<v Poovannan, Rajendran>definitely pass on the good
+work. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5282-0
+00:39:23.214 --> 00:39:23.734
+<v Swift, Christopher>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5301-0
+00:39:24.444 --> 00:39:28.237
+<v Poovannan, Rajendran>Just wanted to highlight that
+there is a various insurance</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5301-1
+00:39:28.237 --> 00:39:31.644
+<v Poovannan, Rajendran>conference coming up in
+September 1st of requesting.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5321-0
+00:39:33.284 --> 00:39:36.960
+<v Poovannan, Rajendran>Your team to get registered, I
+think Chris, yourself and your</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5321-1
+00:39:36.960 --> 00:39:40.044
+<v Poovannan, Rajendran>team, few of them have
+registered but not received.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5322-0
+00:39:38.444 --> 00:39:40.404
+<v Swift, Christopher>Yeah. I think Rob has as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5332-0
+00:39:40.924 --> 00:39:43.364
+<v Poovannan, Rajendran>Yeah, not many people have
+received. Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5347-0
+00:39:41.354 --> 00:39:45.267
+<v Mudhar, Arvinder>Yeah, I think I'm. I think I'm
+registered if you can, if you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5347-1
+00:39:45.267 --> 00:39:48.154
+<v Mudhar, Arvinder>can check for me. I mean, I hope
+I am, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5348-0
+00:39:46.954 --> 00:39:48.034
+<v Poovannan, Rajendran>I will check that arvinder.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5350-0
+00:39:50.874 --> 00:39:51.394
+<v Poovannan, Rajendran>Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5371-0
+00:39:56.484 --> 00:40:00.855
+<v Poovannan, Rajendran>So in Greg's absence, I'm not
+deep diving into this. Normally,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5371-1
+00:40:00.855 --> 00:40:04.324
+<v Poovannan, Rajendran>Greg has a separate monthly call
+for the support.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5390-0
+00:40:06.704 --> 00:40:10.517
+<v Poovannan, Rajendran>We are moving forward as
+progressively we can see the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5390-1
+00:40:10.517 --> 00:40:14.471
+<v Poovannan, Rajendran>number of tickets sold is
+increasing than the number of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5390-2
+00:40:14.471 --> 00:40:16.024
+<v Poovannan, Rajendran>tickets being created.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5432-0
+00:40:17.384 --> 00:40:21.577
+<v Poovannan, Rajendran>That's an just one indication,
+but overall the support issues</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5432-1
+00:40:21.577 --> 00:40:25.567
+<v Poovannan, Rajendran>have been reduced and the Greg's
+team have been looking at</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5432-2
+00:40:25.567 --> 00:40:29.760
+<v Poovannan, Rajendran>solving the root cause problems
+to alleviate some of the pain</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5432-3
+00:40:29.760 --> 00:40:33.818
+<v Poovannan, Rajendran>points. We are still tracking
+towards it and we'll get much</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5432-4
+00:40:33.818 --> 00:40:37.064
+<v Poovannan, Rajendran>more detail in Greg's meeting
+the coming weeks.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5436-0
+00:40:38.504 --> 00:40:39.744
+<v Gillett, Andrew>I'm poovy just just.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5462-0
+00:40:41.174 --> 00:40:45.279
+<v Gillett, Andrew>I suspect everybody else knows
+the answer to this, but was</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5462-1
+00:40:45.279 --> 00:40:49.662
+<v Gillett, Andrew>there a specific change back in
+April that has kind of because</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5462-2
+00:40:49.662 --> 00:40:54.254
+<v Gillett, Andrew>it looks like there's an obvious
+kind of jump, an obvious change?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5468-0
+00:40:55.654 --> 00:40:56.134
+<v Gillett, Andrew>In April.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5477-0
+00:40:55.704 --> 00:40:58.104
+<v Swift, Christopher>The data migration happened in
+May in April.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5475-0
+00:40:57.704 --> 00:40:57.984
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5479-0
+00:40:58.564 --> 00:41:00.004
+<v Gillett, Andrew>Is that the one? Yeah. OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5495-0
+00:40:59.704 --> 00:41:06.090
+<v Poovannan, Rajendran>Yes, and that project was
+successfully completed. So yeah,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5488-0
+00:41:02.634 --> 00:41:03.034
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5493-0
+00:41:04.094 --> 00:41:04.254
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5495-1
+00:41:06.090 --> 00:41:07.064
+<v Poovannan, Rajendran>that's 1.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5542-0
+00:41:07.104 --> 00:41:11.724
+<v Poovannan, Rajendran>Once this is done, I just wanted
+to hear view of views on the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5542-1
+00:41:11.724 --> 00:41:16.345
+<v Poovannan, Rajendran>issues on not able to access
+various products and the overall</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5542-2
+00:41:16.345 --> 00:41:20.294
+<v Poovannan, Rajendran>outage global outage which
+everyone faced. Chris you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5542-3
+00:41:20.294 --> 00:41:24.989
+<v Poovannan, Rajendran>reached out to me regarding the
+claims product. Just wanted to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5534-0
+00:41:23.534 --> 00:41:23.894
+<v Swift, Christopher>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5542-4
+00:41:24.989 --> 00:41:28.864
+<v Poovannan, Rajendran>get your feel what I understood
+from all the other.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5553-0
+00:41:30.584 --> 00:41:34.593
+<v Poovannan, Rajendran>Product news is around is we
+were tracking to plan along with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5553-1
+00:41:34.593 --> 00:41:35.304
+<v Poovannan, Rajendran>the others.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5569-0
+00:41:36.054 --> 00:41:40.154
+<v Poovannan, Rajendran>Your services would have been
+hubbed by 2:00 PM on Friday. Is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5569-1
+00:41:40.154 --> 00:41:42.534
+<v Poovannan, Rajendran>that right? Somewhere on that
+time.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-0
+00:41:44.104 --> 00:41:47.490
+<v Swift, Christopher>Yeah. Yeah, they were up back up
+and running. But yeah, we still</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-1
+00:41:47.490 --> 00:41:50.250
+<v Swift, Christopher>couldn't agree claims or
+anything I saw. I think the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-2
+00:41:50.250 --> 00:41:53.428
+<v Swift, Christopher>communication was out to us
+that, you know, all services are</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-3
+00:41:53.428 --> 00:41:56.709
+<v Swift, Christopher>back up and running. But I know
+right back isn't your service,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-4
+00:41:56.709 --> 00:42:00.043
+<v Swift, Christopher>but that still prevented us from
+being able to action on on the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5614-5
+00:42:00.043 --> 00:42:03.064
+<v Swift, Christopher>system. So we were still
+actioning outside of SQL claims.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5622-0
+00:42:04.014 --> 00:42:06.894
+<v Mudhar, Arvinder>Yeah. And I think that that's a
+good point, Chris. So there's a.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5654-0
+00:42:08.094 --> 00:42:11.341
+<v Mudhar, Arvinder>There's a difference between
+it's all up and running to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5654-1
+00:42:11.341 --> 00:42:14.819
+<v Mudhar, Arvinder>actually can we use it? And I
+think what we got around 2:00</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5654-2
+00:42:14.819 --> 00:42:18.298
+<v Mudhar, Arvinder>o'clock was it's all up and
+running. So I think it, we just</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5642-0
+00:42:16.724 --> 00:42:17.204
+<v Poovannan, Rajendran>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5654-3
+00:42:18.298 --> 00:42:21.893
+<v Mudhar, Arvinder>need to be I think well you need
+to be clear in the future if</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5654-4
+00:42:21.893 --> 00:42:23.574
+<v Mudhar, Arvinder>something that happens again.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5681-0
+00:42:23.614 --> 00:42:27.025
+<v Mudhar, Arvinder>That just because the server's
+up when the application's up,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5681-1
+00:42:27.025 --> 00:42:30.436
+<v Mudhar, Arvinder>what business service is running
+that because we it in a day</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5681-2
+00:42:30.436 --> 00:42:33.455
+<v Mudhar, Arvinder>where there was mass confusion
+that that added to the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5681-3
+00:42:33.455 --> 00:42:34.014
+<v Mudhar, Arvinder>confusion.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5683-0
+00:42:36.054 --> 00:42:36.494
+<v Poovannan, Rajendran>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5695-0
+00:42:38.614 --> 00:42:41.440
+<v Poovannan, Rajendran>Arvinder, how do you think we
+can specifically improve one is</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5695-1
+00:42:41.440 --> 00:42:42.534
+<v Poovannan, Rajendran>the communications, but.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5711-0
+00:42:43.874 --> 00:42:47.699
+<v Poovannan, Rajendran>Where the interim updates on the
+outage, all those things,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5711-1
+00:42:47.699 --> 00:42:51.394
+<v Poovannan, Rajendran>anything from your view which
+the risk could improve on.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5751-0
+00:42:52.334 --> 00:42:55.912
+<v Mudhar, Arvinder>I think you you almost need to
+create a template of. Here's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5751-1
+00:42:55.912 --> 00:42:59.550
+<v Mudhar, Arvinder>all. Here's all the cert by by
+clients. If you treat us as a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5751-2
+00:42:59.550 --> 00:43:03.306
+<v Mudhar, Arvinder>client, here's all. Here's their
+the five or ten services. And</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5739-0
+00:43:00.304 --> 00:43:00.544
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5751-3
+00:43:03.306 --> 00:43:05.334
+<v Mudhar, Arvinder>then here, here are the
+business.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-0
+00:43:06.324 --> 00:43:09.698
+<v Mudhar, Arvinder>Functions those services support
+now some of that may be asked,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-1
+00:43:09.698 --> 00:43:12.598
+<v Mudhar, Arvinder>and that may be you and it
+almost create a rag against</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-2
+00:43:12.598 --> 00:43:15.551
+<v Mudhar, Arvinder>those. So have that ready in
+your back pocket next time</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-3
+00:43:15.551 --> 00:43:18.556
+<v Mudhar, Arvinder>something happens which might be
+newer infrastructure or</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-4
+00:43:18.556 --> 00:43:21.667
+<v Mudhar, Arvinder>infrastructure wherever it is
+you put it up and say here's</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-5
+00:43:21.667 --> 00:43:24.461
+<v Mudhar, Arvinder>where we are. Here's the
+timeline. I think that that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-6
+00:43:24.461 --> 00:43:27.466
+<v Mudhar, Arvinder>would really help because I
+think some of some of it was</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-7
+00:43:27.466 --> 00:43:30.735
+<v Mudhar, Arvinder>going to Chris, some of it was
+going to someone else. We just</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5809-8
+00:43:30.735 --> 00:43:32.844
+<v Mudhar, Arvinder>needed a kind of a a single view
+of of.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5813-0
+00:43:34.564 --> 00:43:35.724
+<v Mudhar, Arvinder>What we could and couldn't do.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5850-0
+00:43:37.074 --> 00:43:41.040
+<v Poovannan, Rajendran>Understood. Point taken. Yeah.
+That clear dashboard kind of</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5850-1
+00:43:41.040 --> 00:43:45.138
+<v Poovannan, Rajendran>template showing the different
+services and business function</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5850-2
+00:43:45.138 --> 00:43:49.435
+<v Poovannan, Rajendran>would help, but I thought people
+had been part of a distribution</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5850-3
+00:43:49.435 --> 00:43:53.797
+<v Poovannan, Rajendran>list. They all received the same
+communication. Isn't that right,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5850-4
+00:43:53.797 --> 00:43:54.194
+<v Poovannan, Rajendran>Chris?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-0
+00:43:54.604 --> 00:43:57.841
+<v Swift, Christopher>I think it was going to an apps
+team in it which I don't know</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-1
+00:43:57.841 --> 00:44:01.130
+<v Swift, Christopher>when when that was set up or by
+who. But yeah, that that would</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-2
+00:44:01.130 --> 00:44:04.419
+<v Swift, Christopher>obviously need to be changed.
+But now I presume that because I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-3
+00:44:04.419 --> 00:44:07.655
+<v Swift, Christopher>was getting multiple updates
+following the communication with</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-4
+00:44:07.655 --> 00:44:11.049
+<v Swift, Christopher>you later on, so I presume I've
+now been added to that list. But</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-5
+00:44:11.049 --> 00:44:14.024
+<v Swift, Christopher>suppose we just need to verify
+that really who's on that</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5901-0
+00:44:13.174 --> 00:44:13.734
+<v Poovannan, Rajendran>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5903-6
+00:44:14.024 --> 00:44:14.964
+<v Swift, Christopher>distribution list?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5924-0
+00:44:16.154 --> 00:44:19.704
+<v Poovannan, Rajendran>OK, so is the best person for
+this will be Tristan to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5924-1
+00:44:19.704 --> 00:44:23.451
+<v Poovannan, Rajendran>coordinate to check the
+distribution list and the people</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5924-2
+00:44:23.451 --> 00:44:24.634
+<v Poovannan, Rajendran>who is part of it.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5964-0
+00:44:26.854 --> 00:44:30.905
+<v Swift, Christopher>I suppose, yeah. If you want to
+send it, send it through to us.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5964-1
+00:44:30.905 --> 00:44:35.082
+<v Swift, Christopher>In this call. You know when when
+Rob's back as well, obviously we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5964-2
+00:44:35.082 --> 00:44:39.259
+<v Swift, Christopher>amongst ourselves, we will be, I
+suppose the key key stakeholders</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5964-3
+00:44:39.259 --> 00:44:42.614
+<v Swift, Christopher>that will deliver that message
+back to the business.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5988-0
+00:44:43.714 --> 00:44:47.255
+<v Poovannan, Rajendran>Will do, definitely. I added a
+rob in the last minute and he</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5988-1
+00:44:47.255 --> 00:44:50.854
+<v Poovannan, Rajendran>said he's not receiving it over
+ruling the distribution list.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5988-2
+00:44:50.854 --> 00:44:54.395
+<v Poovannan, Rajendran>Yeah, we need to get this sorted
+out when things are normal.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5988-3
+00:44:54.395 --> 00:44:55.034
+<v Poovannan, Rajendran>Understood.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/5989-0
+00:44:55.254 --> 00:44:55.494
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6016-0
+00:44:56.154 --> 00:45:00.353
+<v Poovannan, Rajendran>Yeah, and arvinder, I will pass
+on the details about the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6016-1
+00:45:00.353 --> 00:45:05.214
+<v Poovannan, Rajendran>template type of dashboard being
+published and not just a blanket</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6006-0
+00:45:03.464 --> 00:45:04.344
+<v Mudhar, Arvinder>That'd be great.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6016-2
+00:45:05.214 --> 00:45:09.634
+<v Poovannan, Rajendran>statement or other services are
+up and running, understood.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6047-0
+00:45:10.834 --> 00:45:14.467
+<v Poovannan, Rajendran>Greg was very happily
+communicating to other</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6047-1
+00:45:14.467 --> 00:45:19.635
+<v Poovannan, Rajendran>customers, saying that we beat
+DXC by three hours in making the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6047-2
+00:45:19.635 --> 00:45:24.480
+<v Poovannan, Rajendran>services up. So yeah, these are
+improvement point, which we</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6036-0
+00:45:21.444 --> 00:45:21.884
+<v Mudhar, Arvinder>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6047-3
+00:45:24.480 --> 00:45:28.194
+<v Poovannan, Rajendran>definitely want to have
+available. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6056-0
+00:45:30.624 --> 00:45:35.232
+<v Poovannan, Rajendran>Any other questions or
+clarifications, Arvind though,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6056-1
+00:45:35.232 --> 00:45:35.744
+<v Poovannan, Rajendran>Vicki.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6059-0
+00:45:36.944 --> 00:45:37.824
+<v Mudhar, Arvinder>That was good for me.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6064-0
+00:45:39.334 --> 00:45:40.054
+<v Mullins, Nicky>And give Me 2.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6065-0
+00:45:39.534 --> 00:45:40.294
+<v Swift, Christopher>No, thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6067-0
+00:45:41.274 --> 00:45:42.674
+<v Poovannan, Rajendran>Yeah, Andy.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6070-0
+00:45:43.814 --> 00:45:45.094
+<v Gillett, Andrew>Nope, nothing from me. Thanks.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-0
+00:45:45.344 --> 00:45:48.169
+<v Mullins, Nicky>Actually I just I will just do
+one thing, just just for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-1
+00:45:48.169 --> 00:45:51.297
+<v Mullins, Nicky>awareness because I think it's
+it's it's appropriate for this</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-2
+00:45:51.297 --> 00:45:54.323
+<v Mullins, Nicky>level rather than the project
+level working groups. But for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-3
+00:45:54.323 --> 00:45:57.653
+<v Mullins, Nicky>your awareness we will be having
+some changes of personnel within</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-4
+00:45:57.653 --> 00:46:00.730
+<v Mullins, Nicky>the IQ underwriting teams. And
+so I think I've mentioned you</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-5
+00:46:00.730 --> 00:46:03.706
+<v Mullins, Nicky>already and you would have seen
+some new faces start to to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-6
+00:46:03.706 --> 00:46:06.683
+<v Mullins, Nicky>attend the calls. So Tristan
+will be leaving us during the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-7
+00:46:06.683 --> 00:46:09.508
+<v Mullins, Nicky>next couple of months. So we are
+currently recruiting a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-8
+00:46:09.508 --> 00:46:12.837
+<v Mullins, Nicky>replacement in terms of a sequel
+product manager, Mark Sandy will</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6140-9
+00:46:12.837 --> 00:46:15.864
+<v Mullins, Nicky>also be be leaving us in the
+next couple of months as well.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6170-0
+00:46:16.194 --> 00:46:18.745
+<v Mullins, Nicky>And we'll be moving from a
+project management structure to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6170-1
+00:46:18.745 --> 00:46:21.297
+<v Mullins, Nicky>a product management structure.
+And I think this will work</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6170-2
+00:46:21.297 --> 00:46:24.064
+<v Mullins, Nicky>really well with with you guys.
+I think it'll really help us to</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6170-3
+00:46:24.064 --> 00:46:26.572
+<v Mullins, Nicky>to do the work we've talked
+about holistic planning, road</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6170-4
+00:46:26.572 --> 00:46:27.394
+<v Mullins, Nicky>map, looking ahead.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6194-0
+00:46:28.834 --> 00:46:31.722
+<v Mullins, Nicky>But just just to let you know,
+there will be a change in some</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6194-1
+00:46:31.722 --> 00:46:34.703
+<v Mullins, Nicky>of the stakeholders internally,
+but we already have seen is Tom</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6194-2
+00:46:34.703 --> 00:46:35.914
+<v Mullins, Nicky>Gig has started to attend.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6219-0
+00:46:37.594 --> 00:46:41.093
+<v Mullins, Nicky>As the new Agile delivery lead,
+he will be be accountable for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6219-1
+00:46:41.093 --> 00:46:44.648
+<v Mullins, Nicky>sequel and he will be joined by
+a sequel, product manager, who</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6219-2
+00:46:44.648 --> 00:46:47.074
+<v Mullins, Nicky>we're currently recruiting
+externally. So.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6243-0
+00:46:47.654 --> 00:46:51.040
+<v Mullins, Nicky>Just know whether you there will
+be some change in stakeholders,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6243-1
+00:46:51.040 --> 00:46:54.374
+<v Mullins, Nicky>but there will be overlapping.
+We're not aiming to have any gap</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6243-2
+00:46:54.374 --> 00:46:56.614
+<v Mullins, Nicky>between between leaders of those
+projects.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6245-0
+00:46:57.994 --> 00:46:58.434
+<v Poovannan, Rajendran>OK.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6268-0
+00:46:59.254 --> 00:47:01.265
+<v Mullins, Nicky>OK. That's just just for
+awareness that it was more</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6253-0
+00:46:59.334 --> 00:47:00.414
+<v Poovannan, Rajendran>Thanks for that update.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6268-1
+00:47:01.265 --> 00:47:03.623
+<v Mullins, Nicky>appropriate to raise at this
+call rather than at some of the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6268-2
+00:47:03.623 --> 00:47:05.827
+<v Mullins, Nicky>the actual delivery calls where
+those people are present</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6268-3
+00:47:05.827 --> 00:47:06.214
+<v Mullins, Nicky>obviously.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6303-0
+00:47:06.434 --> 00:47:09.999
+<v Poovannan, Rajendran>Yeah, Nikki, I'll try to put
+together in our chat as I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6303-1
+00:47:09.999 --> 00:47:13.823
+<v Poovannan, Rajendran>understand it and maybe we can
+refine it so that I'll also</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6303-2
+00:47:13.823 --> 00:47:17.841
+<v Poovannan, Rajendran>produce something similar from
+where is side, so that we have</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6316-0
+00:47:15.044 --> 00:47:19.150
+<v Mullins, Nicky>I was gonna say holistically it
+would be brilliant to have, like</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6303-3
+00:47:17.841 --> 00:47:18.554
+<v Poovannan, Rajendran>both, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6316-1
+00:47:19.150 --> 00:47:22.877
+<v Mullins, Nicky>a yeah, a joined up org charts
+of of of everybody would be</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6316-2
+00:47:22.877 --> 00:47:24.204
+<v Mullins, Nicky>really useful please.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6341-0
+00:47:24.464 --> 00:47:27.951
+<v Poovannan, Rajendran>Yeah, yeah, yeah. It'll be
+easier for you as well to reach</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6341-1
+00:47:27.951 --> 00:47:31.497
+<v Poovannan, Rajendran>out to somebody here. And where
+is very quickly. Yeah, I'll</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6341-2
+00:47:31.497 --> 00:47:33.624
+<v Poovannan, Rajendran>prepare them and share it with
+you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6340-0
+00:47:31.844 --> 00:47:33.044
+<v Mullins, Nicky>That'd be helpful. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6343-0
+00:47:34.204 --> 00:47:35.084
+<v Mullins, Nicky>Cool. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6344-0
+00:47:35.854 --> 00:47:36.374
+<v Poovannan, Rajendran>Hey.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6345-0
+00:47:36.094 --> 00:47:36.534
+<v Mullins, Nicky>And.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6365-0
+00:47:36.514 --> 00:47:39.926
+<v Gillett, Andrew>And Peevy, can you make sure you
+don't send that across until the</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6365-1
+00:47:39.926 --> 00:47:41.994
+<v Gillett, Andrew>recruitment's completed on the
+IQ side?</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6367-0
+00:47:42.554 --> 00:47:42.754
+<v Mullins, Nicky>Yes.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6381-0
+00:47:45.294 --> 00:47:47.774
+<v Poovannan, Rajendran>It's a moving target, Andy, so.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6376-0
+00:47:45.684 --> 00:47:46.964
+<v Gillett, Andrew>Ha ha ha.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-0
+00:47:46.994 --> 00:47:49.923
+<v Mullins, Nicky>But let let's do one. Let's do
+one in terms of roles. First, I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-1
+00:47:49.923 --> 00:47:52.806
+<v Mullins, Nicky>think, you know, like the roles
+and then we can we can change</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-2
+00:47:52.806 --> 00:47:55.457
+<v Mullins, Nicky>the people in some of them, but
+it is you know this is a</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6399-0
+00:47:54.844 --> 00:47:54.964
+<v Poovannan, Rajendran>She.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-3
+00:47:55.457 --> 00:47:58.247
+<v Mullins, Nicky>strategic move for us. When I
+say we're moving from project</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-4
+00:47:58.247 --> 00:48:00.804
+<v Mullins, Nicky>management to product
+management. But actually I think</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-5
+00:48:00.804 --> 00:48:03.641
+<v Mullins, Nicky>that means that for Verisk, you
+will have better continuity.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-6
+00:48:03.641 --> 00:48:06.477
+<v Mullins, Nicky>Everything will come through a
+single pipeline at the moment</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-7
+00:48:06.477 --> 00:48:09.360
+<v Mullins, Nicky>with the project management,
+everyone's competing for airtime</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-8
+00:48:09.360 --> 00:48:11.871
+<v Mullins, Nicky>and you know as you know
+organizationally we have two</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-9
+00:48:11.871 --> 00:48:14.475
+<v Mullins, Nicky>halves of the business and
+they're both competing. So I</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-10
+00:48:14.475 --> 00:48:17.265
+<v Mullins, Nicky>think this will actually give
+better transparency all round</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6466-11
+00:48:17.265 --> 00:48:18.474
+<v Mullins, Nicky>internally and externally.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6471-0
+00:48:19.844 --> 00:48:21.524
+<v Poovannan, Rajendran>Yeah, it will. It will, yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6498-0
+00:48:23.884 --> 00:48:26.966
+<v Mullins, Nicky>And then as it normally Susie
+will attend rather than myself,</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6479-0
+00:48:24.214 --> 00:48:24.934
+<v Poovannan, Rajendran>Thank you all.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6492-0
+00:48:26.564 --> 00:48:26.924
+<v Poovannan, Rajendran>Yeah.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6498-1
+00:48:26.966 --> 00:48:29.998
+<v Mullins, Nicky>because she's accountable for
+1856. But I'm just here as her</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6498-2
+00:48:29.998 --> 00:48:30.644
+<v Mullins, Nicky>deputy today.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6509-0
+00:48:33.574 --> 00:48:35.783
+<v Mullins, Nicky>Alright, thank you very much for
+organising that. Thanks for</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6508-0
+00:48:33.714 --> 00:48:35.394
+<v Poovannan, Rajendran>Thanks. Thank you.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6509-1
+00:48:35.783 --> 00:48:36.254
+<v Mullins, Nicky>coming along.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6529-0
+00:48:36.594 --> 00:48:39.954
+<v Mudhar, Arvinder>Thank you. Right. Right, bye
+bye.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6522-0
+00:48:36.644 --> 00:48:38.324
+<v Poovannan, Rajendran>Thank you. Cheers, bye.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6528-0
+00:48:36.834 --> 00:48:39.914
+<v Swift, Christopher>Thank you. Bye. Yes, that's all.
+Thanks. Bye.</v>
+
+7abd7722-1d45-4bd0-8011-3f9377bf1f30/6521-0
+00:48:37.544 --> 00:48:38.664
+<v Gillett, Andrew>Thanks old bye bye.</v>

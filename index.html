@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Poovannan's Homepage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #71b7e6, #9b59b6);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        .time {
+            font-size: 2em;
+            margin-top: 20px;
+        }
+        .location, .weather {
+            margin-top: 20px;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Poovannan's Amazing Homepage!</h1>
+        <div class="time">
+            Current Date and Time: <span id="datetime"></span>
+        </div>
+        <div class="location">
+            Location: <span id="location"></span>
+        </div>
+        <div class="weather">
+            Weather: <span id="weather"></span>
+        </div>
+    </div>
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            document.getElementById('datetime').textContent = now.toLocaleString();
+        }
+
+        async function updateLocationAndWeather() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(async (position) => {
+                    const lat = position.coords.latitude;
+                    const lon = position.coords.longitude;
+
+                    // Fetch location data
+                    const openCageApiKey = 'd4920612d11e4a4f85fa03784da7a080';
+                    const locationResponse = await fetch(`https://api.opencagedata.com/geocode/v1/json?q=${lat}+${lon}&key=${openCageApiKey}`);
+                    const locationData = await locationResponse.json();
+                    const locationInfo = locationData.results[0].formatted;
+
+                    // Update location
+                    document.getElementById('location').textContent = `Latitude: ${lat}, Longitude: ${lon}, ${locationInfo}`;
+
+                    try {
+                        // Fetch weather data
+                        const weatherApiKey = '9eb0a30eacaeb431deabc06c2e2cccf5';
+                        const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${weatherApiKey}&units=metric`);
+                        const weatherData = await weatherResponse.json();
+
+                        if (weatherResponse.ok) {
+                            const weatherDescription = weatherData.weather[0].description;
+                            const temperature = weatherData.main.temp;
+
+                            document.getElementById('weather').textContent = `${weatherDescription}, ${temperature}°C`;
+                        } else {
+                            throw new Error(weatherData.message);
+                        }
+                    } catch (error) {
+                        document.getElementById('weather').textContent = `Error fetching weather data: ${error.message}`;
+                    }
+                }, (error) => {
+                    document.getElementById('location').textContent = 'Geolocation error: ' + error.message;
+                    document.getElementById('weather').textContent = 'Unable to retrieve weather data.';
+                });
+            } else {
+                document.getElementById('location').textContent = 'Geolocation is not supported by this browser.';
+                document.getElementById('weather').textContent = 'Unable to retrieve weather data.';
+            }
+        }
+
+        // Update the time every second
+        setInterval(updateTime, 1000);
+        updateTime();
+        updateLocationAndWeather();
+    </script>
+</body>
+</html>
